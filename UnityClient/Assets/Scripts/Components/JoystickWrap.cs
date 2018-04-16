@@ -62,7 +62,7 @@ public class JoystickWrap : MonoBehaviour {
         public Vector2 m_axisRight3D = new Vector2(1,1);
 
         Vector3 m_vec3D = Vector3.zero;
-        float m_lastTime = Time.realtimeSinceStartup;
+        float m_lastTime = 0f;// Time.realtimeSinceStartup;
         bool m_isMovingAxis = false;
         public Vector3 GetVector3D()
         {
