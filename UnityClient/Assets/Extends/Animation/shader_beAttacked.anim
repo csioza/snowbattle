@@ -1,0 +1,491 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: shader_beAttacked
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .956862688
+        inSlope: -3.45097899
+        outSlope: -3.45097899
+        tangentMode: 10
+      - time: .0500000007
+        value: .784313738
+        inSlope: -1.7254895
+        outSlope: -1.7254895
+        tangentMode: 10
+      - time: .150000006
+        value: .784313738
+        inSlope: 1.88235295
+        outSlope: 1.88235295
+        tangentMode: 10
+      - time: .200000003
+        value: .972549021
+        inSlope: 1.88235295
+        outSlope: 1.88235295
+        tangentMode: 10
+      - time: .283333331
+        value: .972549021
+        inSlope: -.156863287
+        outSlope: -.156863287
+        tangentMode: 10
+      - time: .333333343
+        value: .956862688
+        inSlope: -.313726574
+        outSlope: -.313726574
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelColor.r
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .890196085
+        inSlope: -2.11764693
+        outSlope: -2.11764693
+        tangentMode: 10
+      - time: .0500000007
+        value: .784313738
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: .784313738
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: .454901963
+        inSlope: 3.64659762
+        outSlope: 3.64659762
+        tangentMode: 0
+      - time: .283333331
+        value: .380392164
+        inSlope: 3.64659762
+        outSlope: 3.64659762
+        tangentMode: 0
+      - time: .333333343
+        value: .890196085
+        inSlope: 10.1960754
+        outSlope: 10.1960754
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelColor.g
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0500000007
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .283333331
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelColor.b
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0500000007
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .150000006
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .283333331
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelColor.a
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 7.0823884
+        outSlope: 7.0823884
+        tangentMode: 10
+      - time: .0833333358
+        value: .590199053
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .233333334
+        value: .650553167
+        inSlope: -1.90391254
+        outSlope: -1.90391254
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: -6.50553131
+        outSlope: -6.50553131
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelScale
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0199999996
+        inSlope: 7.5637207
+        outSlope: 7.5637207
+        tangentMode: 10
+      - time: .0500000007
+        value: .398186058
+        inSlope: 3.98612571
+        outSlope: 3.98612571
+        tangentMode: 10
+      - time: .116666667
+        value: .425421447
+        inSlope: -.177056119
+        outSlope: -.177056119
+        tangentMode: 10
+      - time: .150000006
+        value: .400000006
+        inSlope: -.381321549
+        outSlope: -.381321549
+        tangentMode: 10
+      - time: .200000003
+        value: .400000006
+        inSlope: -1.42499995
+        outSlope: -1.42499995
+        tangentMode: 10
+      - time: .333333343
+        value: .0199999996
+        inSlope: -2.8499999
+        outSlope: -2.8499999
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelWeight
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .333333343
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .956862688
+        inSlope: -3.45097899
+        outSlope: -3.45097899
+        tangentMode: 10
+      - time: .0500000007
+        value: .784313738
+        inSlope: -1.7254895
+        outSlope: -1.7254895
+        tangentMode: 10
+      - time: .150000006
+        value: .784313738
+        inSlope: 1.88235295
+        outSlope: 1.88235295
+        tangentMode: 10
+      - time: .200000003
+        value: .972549021
+        inSlope: 1.88235295
+        outSlope: 1.88235295
+        tangentMode: 10
+      - time: .283333331
+        value: .972549021
+        inSlope: -.156863287
+        outSlope: -.156863287
+        tangentMode: 10
+      - time: .333333343
+        value: .956862688
+        inSlope: -.313726574
+        outSlope: -.313726574
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelColor.r
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .890196085
+        inSlope: -2.11764693
+        outSlope: -2.11764693
+        tangentMode: 10
+      - time: .0500000007
+        value: .784313738
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: .784313738
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: .454901963
+        inSlope: 3.64659762
+        outSlope: 3.64659762
+        tangentMode: 0
+      - time: .283333331
+        value: .380392164
+        inSlope: 3.64659762
+        outSlope: 3.64659762
+        tangentMode: 0
+      - time: .333333343
+        value: .890196085
+        inSlope: 10.1960754
+        outSlope: 10.1960754
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelColor.g
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0500000007
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .283333331
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelColor.b
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0500000007
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .150000006
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .283333331
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelColor.a
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 7.0823884
+        outSlope: 7.0823884
+        tangentMode: 10
+      - time: .0833333358
+        value: .590199053
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .233333334
+        value: .650553167
+        inSlope: -1.90391254
+        outSlope: -1.90391254
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: -6.50553131
+        outSlope: -6.50553131
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelScale
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0199999996
+        inSlope: 7.5637207
+        outSlope: 7.5637207
+        tangentMode: 10
+      - time: .0500000007
+        value: .398186058
+        inSlope: 3.98612571
+        outSlope: 3.98612571
+        tangentMode: 10
+      - time: .116666667
+        value: .425421447
+        inSlope: -.177056119
+        outSlope: -.177056119
+        tangentMode: 10
+      - time: .150000006
+        value: .400000006
+        inSlope: -.381321549
+        outSlope: -.381321549
+        tangentMode: 10
+      - time: .200000003
+        value: .400000006
+        inSlope: -1.42499995
+        outSlope: -1.42499995
+        tangentMode: 10
+      - time: .333333343
+        value: .0199999996
+        inSlope: -2.8499999
+        outSlope: -2.8499999
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._FresnelWeight
+    path: 
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

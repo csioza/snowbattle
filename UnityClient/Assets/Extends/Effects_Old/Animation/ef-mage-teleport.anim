@@ -1,0 +1,890 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ef-mage-teleport
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.200000003, y: 0, z: 0}
+        inSlope: {x: 2.97000003, y: 1.20000005, z: 9.04964924}
+        outSlope: {x: 2.97000003, y: 1.20000005, z: 9.04964924}
+        tangentMode: 0
+      - time: .0666666701
+        value: {x: -.00199998915, y: .0800000057, z: .292293936}
+        inSlope: {x: 3.49499989, y: 1.20000005, z: 1.73305714}
+        outSlope: {x: 3.49499989, y: 1.20000005, z: 1.73305714}
+        tangentMode: 3
+      - time: .166666672
+        value: {x: .400000006, y: .200000003, z: 0}
+        inSlope: {x: -.478199959, y: 1.20000005, z: -8.90505791}
+        outSlope: {x: -.478199959, y: 1.20000005, z: -8.90505791}
+        tangentMode: 4
+      - time: .233333334
+        value: {x: .0682400167, y: .280000001, z: -.476881772}
+        inSlope: {x: -5.32940006, y: 1.20000005, z: -1.41545451}
+        outSlope: {x: -5.32940006, y: 1.20000005, z: -1.41545451}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: -.5, y: .400000036, z: 0}
+        inSlope: {x: .337384224, y: 1.20000005, z: 8.50876331}
+        outSlope: {x: .337384224, y: 1.20000005, z: 8.50876331}
+        tangentMode: 0
+      - time: .400000006
+        value: {x: -.0761888027, y: .480000019, z: .478219032}
+        inSlope: {x: 6.05952835, y: 1.20000005, z: 5.83450556}
+        outSlope: {x: 6.05952835, y: 1.20000005, z: 5.83450556}
+        tangentMode: 0
+      - time: .5
+        value: {x: .5, y: .600000024, z: 0}
+        inSlope: {x: -.29048562, y: 1.20000005, z: -6.14109564}
+        outSlope: {x: -.29048562, y: 1.20000005, z: -6.14109564}
+        tangentMode: 0
+      - time: .566666663
+        value: {x: .0771427155, y: .680000007, z: -.5}
+        inSlope: {x: -6.05714273, y: 1.20000017, z: -1.25000072}
+        outSlope: {x: -6.05714273, y: 1.20000017, z: -1.25000072}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.5, y: .800000072, z: 0}
+        inSlope: {x: .284859419, y: 1.20000017, z: 6.25}
+        outSlope: {x: .284859419, y: 1.20000017, z: 6.25}
+        tangentMode: 2
+      - time: .733333349
+        value: {x: -.077257067, y: .880000055, z: .5}
+        inSlope: {x: 6.05685854, y: 1.20000005, z: 1.24999928}
+        outSlope: {x: 6.05685854, y: 1.20000005, z: 1.24999928}
+        tangentMode: 1142341632
+      - time: .833333313
+        value: {x: .5, y: 1, z: 0}
+        inSlope: {x: .0758178234, y: 1.20000005, z: -6.25000095}
+        outSlope: {x: .0758178234, y: 1.20000005, z: -6.25000095}
+        tangentMode: 115
+      - time: .899999976
+        value: {x: .125270903, y: 1.08000004, z: -.5}
+        inSlope: {x: -5.93682194, y: 1.20000005, z: -1.25000072}
+        outSlope: {x: -5.93682194, y: 1.20000005, z: -1.25000072}
+        tangentMode: 71
+      - time: 1
+        value: {x: -.5, y: 1.20000005, z: 0}
+        inSlope: {x: -6.25270748, y: 1.20000005, z: 4.99999905}
+        outSlope: {x: -6.25270748, y: 1.20000005, z: 4.99999905}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: ef-aii-w1-shaqi-E01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .200000003, y: 0, z: 0}
+        inSlope: {x: -2.9400003, y: 1.19999993, z: -4.5}
+        outSlope: {x: -2.9400003, y: 1.19999993, z: -4.5}
+        tangentMode: 0
+      - time: .0666666701
+        value: {x: .0039999783, y: .0799999982, z: -.300000012}
+        inSlope: {x: -3.49000025, y: 1.20000005, z: -.75}
+        outSlope: {x: -3.49000025, y: 1.20000005, z: -.75}
+        tangentMode: 1065353216
+      - time: .166666672
+        value: {x: -.400000006, y: .200000018, z: 0}
+        inSlope: {x: -.0436000824, y: 1.20000005, z: 5.25}
+        outSlope: {x: -.0436000824, y: 1.20000005, z: 5.25}
+        tangentMode: 0
+      - time: .233333334
+        value: {x: -.136480033, y: .280000001, z: .5}
+        inSlope: {x: 5.15880013, y: 1.20000005, z: 1.25000048}
+        outSlope: {x: 5.15880013, y: 1.20000005, z: 1.25000048}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: .5, y: .400000036, z: 0}
+        inSlope: {x: .575231791, y: 1.20000005, z: -6.25}
+        outSlope: {x: .575231791, y: 1.20000005, z: -6.25}
+        tangentMode: 2
+      - time: .400000006
+        value: {x: .152377605, y: .480000019, z: -.5}
+        inSlope: {x: -5.8690567, y: 1.20000005, z: -1.25}
+        outSlope: {x: -5.8690567, y: 1.20000005, z: -1.25}
+        tangentMode: 117637376
+      - time: .5
+        value: {x: -.5, y: .600000024, z: 0}
+        inSlope: {x: -.669028759, y: 1.20000005, z: 6.25000048}
+        outSlope: {x: -.669028759, y: 1.20000005, z: 6.25000048}
+        tangentMode: 1
+      - time: .566666663
+        value: {x: -.154285431, y: .680000007, z: .5}
+        inSlope: {x: 5.86428595, y: 1.20000005, z: 1.25000072}
+        outSlope: {x: 5.86428595, y: 1.20000005, z: 1.25000072}
+        tangentMode: 1145176064
+      - time: .666666687
+        value: {x: .5, y: .800000072, z: 0}
+        inSlope: {x: .680282354, y: 1.20000005, z: -6.25}
+        outSlope: {x: .680282354, y: 1.20000005, z: -6.25}
+        tangentMode: 116636520
+      - time: .733333349
+        value: {x: .154514134, y: .880000055, z: -.5}
+        inSlope: {x: -5.86371613, y: 1.19999981, z: -1.24999928}
+        outSlope: {x: -5.86371613, y: 1.19999981, z: -1.24999928}
+        tangentMode: 0
+      - time: .833333313
+        value: {x: -.5, y: 1, z: 0}
+        inSlope: {x: -1.40163529, y: 1.20000029, z: 6.25000095}
+        outSlope: {x: -1.40163529, y: 1.20000029, z: 6.25000095}
+        tangentMode: 0
+      - time: .899999976
+        value: {x: -.250541806, y: 1.08000004, z: .5}
+        inSlope: {x: 5.62364483, y: 1.20000029, z: 1.25000072}
+        outSlope: {x: 5.62364483, y: 1.20000029, z: 1.25000072}
+        tangentMode: 0
+      - time: 1
+        value: {x: .5, y: 1.20000005, z: 0}
+        inSlope: {x: 7.50541639, y: 1.19999981, z: -4.99999905}
+        outSlope: {x: 7.50541639, y: 1.19999981, z: -4.99999905}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: ef-aii-w1-shaqi-E02
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .600000024
+        inSlope: -1.20000005
+        outSlope: -1.20000005
+        tangentMode: 10
+      - time: .333333343
+        value: .200000003
+        inSlope: -.450000018
+        outSlope: -.450000018
+        tangentMode: 10
+      - time: .666666687
+        value: .300000012
+        inSlope: -.225000024
+        outSlope: -.225000024
+        tangentMode: 10
+      - time: 1
+        value: .0500000007
+        inSlope: -.75000006
+        outSlope: -.75000006
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: InitialModule.startSize.scalar
+    path: ef-aii-w1-shaqi-E01
+    classID: 198
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .600000024
+        inSlope: -1.20000005
+        outSlope: -1.20000005
+        tangentMode: 10
+      - time: .333333343
+        value: .200000003
+        inSlope: -.600000024
+        outSlope: -.600000024
+        tangentMode: 10
+      - time: .666666687
+        value: .200000003
+        inSlope: -.225000024
+        outSlope: -.225000024
+        tangentMode: 10
+      - time: 1
+        value: .0500000007
+        inSlope: -.243750021
+        outSlope: -.243750021
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: -.0375000015
+        outSlope: -.0375000015
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: InitialModule.startSize.scalar
+    path: ef-aii-w1-shaqi-E02
+    classID: 198
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 500
+        inSlope: -50
+        outSlope: -50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: EmissionModule.rate.scalar
+    path: ef-aii-w1-shaqi-E01
+    classID: 198
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.66666663
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: ef-aii-w1-shaqi-E01
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.66666663
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: ef-aii-w1-shaqi-E02
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: EmissionModule.enabled
+    path: ef-aii-w1-shaqi-E02
+    classID: 198
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: EmissionModule.enabled
+    path: ef-aii-w1-shaqi-E01
+    classID: 198
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 8
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2.33333325
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.200000003
+        inSlope: 2.97000003
+        outSlope: 2.97000003
+        tangentMode: 10
+      - time: .0666666701
+        value: -.00199998915
+        inSlope: 3.49499989
+        outSlope: 3.49499989
+        tangentMode: 10
+      - time: .166666672
+        value: .400000006
+        inSlope: -.478199959
+        outSlope: -.478199959
+        tangentMode: 10
+      - time: .233333334
+        value: .0682400167
+        inSlope: -5.32940006
+        outSlope: -5.32940006
+        tangentMode: 10
+      - time: .333333343
+        value: -.5
+        inSlope: .337384224
+        outSlope: .337384224
+        tangentMode: 10
+      - time: .400000006
+        value: -.0761888027
+        inSlope: 6.05952835
+        outSlope: 6.05952835
+        tangentMode: 10
+      - time: .5
+        value: .5
+        inSlope: -.29048562
+        outSlope: -.29048562
+        tangentMode: 10
+      - time: .566666663
+        value: .0771427155
+        inSlope: -6.05714273
+        outSlope: -6.05714273
+        tangentMode: 10
+      - time: .666666687
+        value: -.5
+        inSlope: .284859419
+        outSlope: .284859419
+        tangentMode: 10
+      - time: .733333349
+        value: -.077257067
+        inSlope: 6.05685854
+        outSlope: 6.05685854
+        tangentMode: 10
+      - time: .833333313
+        value: .5
+        inSlope: .0758178234
+        outSlope: .0758178234
+        tangentMode: 10
+      - time: .899999976
+        value: .125270903
+        inSlope: -5.93682194
+        outSlope: -5.93682194
+        tangentMode: 10
+      - time: 1
+        value: -.5
+        inSlope: -6.25270748
+        outSlope: -6.25270748
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: ef-aii-w1-shaqi-E01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .0666666701
+        value: .0800000057
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .166666672
+        value: .200000003
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: 1
+        value: 1.20000005
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: ef-aii-w1-shaqi-E01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 9.04964924
+        outSlope: 9.04964924
+        tangentMode: 0
+      - time: .0666666701
+        value: .292293936
+        inSlope: 1.73305714
+        outSlope: 1.73305714
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: -8.90505791
+        outSlope: -8.90505791
+        tangentMode: 0
+      - time: .233333334
+        value: -.476881772
+        inSlope: -1.41545451
+        outSlope: -1.41545451
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: 8.50876331
+        outSlope: 8.50876331
+        tangentMode: 0
+      - time: .400000006
+        value: .478219032
+        inSlope: 5.83450556
+        outSlope: 5.83450556
+        tangentMode: 0
+      - time: .5
+        value: 0
+        inSlope: -6.14109564
+        outSlope: -6.14109564
+        tangentMode: 10
+      - time: .566666663
+        value: -.5
+        inSlope: -1.25000072
+        outSlope: -1.25000072
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: 6.25
+        outSlope: 6.25
+        tangentMode: 10
+      - time: .733333349
+        value: .5
+        inSlope: 1.24999928
+        outSlope: 1.24999928
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: -6.25000095
+        outSlope: -6.25000095
+        tangentMode: 10
+      - time: .899999976
+        value: -.5
+        inSlope: -1.25000072
+        outSlope: -1.25000072
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 4.99999905
+        outSlope: 4.99999905
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: ef-aii-w1-shaqi-E01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .600000024
+        inSlope: -1.20000005
+        outSlope: -1.20000005
+        tangentMode: 10
+      - time: .333333343
+        value: .200000003
+        inSlope: -.450000018
+        outSlope: -.450000018
+        tangentMode: 10
+      - time: .666666687
+        value: .300000012
+        inSlope: -.225000024
+        outSlope: -.225000024
+        tangentMode: 10
+      - time: 1
+        value: .0500000007
+        inSlope: -.75000006
+        outSlope: -.75000006
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: InitialModule.startSize.scalar
+    path: ef-aii-w1-shaqi-E01
+    classID: 198
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .200000003
+        inSlope: -2.9400003
+        outSlope: -2.9400003
+        tangentMode: 10
+      - time: .0666666701
+        value: .0039999783
+        inSlope: -3.49000025
+        outSlope: -3.49000025
+        tangentMode: 10
+      - time: .166666672
+        value: -.400000006
+        inSlope: -.0436000824
+        outSlope: -.0436000824
+        tangentMode: 10
+      - time: .233333334
+        value: -.136480033
+        inSlope: 5.15880013
+        outSlope: 5.15880013
+        tangentMode: 10
+      - time: .333333343
+        value: .5
+        inSlope: .575231791
+        outSlope: .575231791
+        tangentMode: 10
+      - time: .400000006
+        value: .152377605
+        inSlope: -5.8690567
+        outSlope: -5.8690567
+        tangentMode: 10
+      - time: .5
+        value: -.5
+        inSlope: -.669028759
+        outSlope: -.669028759
+        tangentMode: 10
+      - time: .566666663
+        value: -.154285431
+        inSlope: 5.86428595
+        outSlope: 5.86428595
+        tangentMode: 10
+      - time: .666666687
+        value: .5
+        inSlope: .680282354
+        outSlope: .680282354
+        tangentMode: 10
+      - time: .733333349
+        value: .154514134
+        inSlope: -5.86371613
+        outSlope: -5.86371613
+        tangentMode: 10
+      - time: .833333313
+        value: -.5
+        inSlope: -1.40163529
+        outSlope: -1.40163529
+        tangentMode: 10
+      - time: .899999976
+        value: -.250541806
+        inSlope: 5.62364483
+        outSlope: 5.62364483
+        tangentMode: 10
+      - time: 1
+        value: .5
+        inSlope: 7.50541639
+        outSlope: 7.50541639
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: ef-aii-w1-shaqi-E02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 1.19999993
+        outSlope: 1.19999993
+        tangentMode: 10
+      - time: .0666666701
+        value: .0799999982
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .166666672
+        value: .200000018
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .233333334
+        value: .280000001
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .333333343
+        value: .400000036
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .400000006
+        value: .480000019
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .5
+        value: .600000024
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .566666663
+        value: .680000007
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .666666687
+        value: .800000072
+        inSlope: 1.20000005
+        outSlope: 1.20000005
+        tangentMode: 10
+      - time: .733333349
+        value: .880000055
+        inSlope: 1.19999981
+        outSlope: 1.19999981
+        tangentMode: 10
+      - time: .833333313
+        value: 1
+        inSlope: 1.20000029
+        outSlope: 1.20000029
+        tangentMode: 10
+      - time: .899999976
+        value: 1.08000004
+        inSlope: 1.20000029
+        outSlope: 1.20000029
+        tangentMode: 10
+      - time: 1
+        value: 1.20000005
+        inSlope: 1.19999981
+        outSlope: 1.19999981
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: ef-aii-w1-shaqi-E02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -4.5
+        outSlope: -4.5
+        tangentMode: 10
+      - time: .0666666701
+        value: -.300000012
+        inSlope: -.75
+        outSlope: -.75
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 5.25
+        outSlope: 5.25
+        tangentMode: 10
+      - time: .233333334
+        value: .5
+        inSlope: 1.25000048
+        outSlope: 1.25000048
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: -6.25
+        outSlope: -6.25
+        tangentMode: 10
+      - time: .400000006
+        value: -.5
+        inSlope: -1.25
+        outSlope: -1.25
+        tangentMode: 10
+      - time: .5
+        value: 0
+        inSlope: 6.25000048
+        outSlope: 6.25000048
+        tangentMode: 10
+      - time: .566666663
+        value: .5
+        inSlope: 1.25000072
+        outSlope: 1.25000072
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: -6.25
+        outSlope: -6.25
+        tangentMode: 10
+      - time: .733333349
+        value: -.5
+        inSlope: -1.24999928
+        outSlope: -1.24999928
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 6.25000095
+        outSlope: 6.25000095
+        tangentMode: 10
+      - time: .899999976
+        value: .5
+        inSlope: 1.25000072
+        outSlope: 1.25000072
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: -4.99999905
+        outSlope: -4.99999905
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: ef-aii-w1-shaqi-E02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .600000024
+        inSlope: -1.20000005
+        outSlope: -1.20000005
+        tangentMode: 10
+      - time: .333333343
+        value: .200000003
+        inSlope: -.600000024
+        outSlope: -.600000024
+        tangentMode: 10
+      - time: .666666687
+        value: .200000003
+        inSlope: -.225000024
+        outSlope: -.225000024
+        tangentMode: 10
+      - time: 1
+        value: .0500000007
+        inSlope: -.243750021
+        outSlope: -.243750021
+        tangentMode: 10
+      - time: 2.33333325
+        value: 0
+        inSlope: -.0375000015
+        outSlope: -.0375000015
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: InitialModule.startSize.scalar
+    path: ef-aii-w1-shaqi-E02
+    classID: 198
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 500
+        inSlope: -50
+        outSlope: -50
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: EmissionModule.rate.scalar
+    path: ef-aii-w1-shaqi-E01
+    classID: 198
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.66666663
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: ef-aii-w1-shaqi-E01
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.66666663
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: ef-aii-w1-shaqi-E02
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: EmissionModule.enabled
+    path: ef-aii-w1-shaqi-E02
+    classID: 198
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: EmissionModule.enabled
+    path: ef-aii-w1-shaqi-E01
+    classID: 198
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

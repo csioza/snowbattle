@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TouchSunkensTrapAI Type = "AINodeSel">
+	<Sel Name = "AINode" Type ="AINodeSel">
+		<Seq Name = "初始化AI数据" Type = "AINodeSeq">
+			<AICondition Name = "初始化AI数据" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "IsInitAIDataList" ValueType = "Bool" CompareType = "None" Value = "False"/>
+			<AICondition Name = "上次攻击时间" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "PreAttackTime" ValueType = "Time" SetType = "Reset" Value = "None"/>
+			<AICondition Name = "已经攻击次数" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "AttackCount" ValueType = "Int" SetType = "Reset" Value = "None"/>
+			<AICondition Name = "初始化AI数据" Type = "ValueSetCondition" ObjectType = "Actor" ValueName = "IsInitAIDataList" ValueType = "Bool" SetType = "None" Value = "True"/>
+		</Seq>
+		<Sel Name = "TouchTrapAI" Type = "AINodeSel">
+			<Seq Name = "攻击" Type = "AINodeSeq">
+				<AICondition Name = "检测到有人进入" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "IsActorTouch" ValueType = "Bool" CompareType = "Equal" Value = "True"/>
+				<Sel Name = "CheckAttackCount" Type = "AINodeSel">
+					<Seq Name = "CheckAttackCount" Type = "AINodeSeq">
+						<AICondition Name = "攻击次数" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "TrapMaxAttackCount" ValueType = "Int" CompareType = "ValueHigh" Value = "0"/>
+						<AICondition Name = "剩余攻击次数" Type = "ValueCompareCondition" ObjectType = "AI" ValueName = "AttackCount" ValueType = "Int" CompareType = "ValueHigh" Value = "0"/>
+					</Seq>
+					<Seq Name = "CheckAttackCount" Type = "AINodeSeq">
+						<AICondition Name = "攻击次数" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "TrapMaxAttackCount" ValueType = "Int" CompareType = "Equal" Value = "0"/>
+					</Seq>
+				</Sel>
+				<AICondition Name = "检测到有人进入" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "IsActorTouch" ValueType = "Bool" CompareType = "Equal" Value = "True"/>
+				<AICondition Name = "上次攻击时间" Type = "ValueCompareCondition" ObjectType = "AI" ValueName = "PreAttackTime" ValueType = "Time" CompareType = "ValueHigh" Value = "3"/>
+				<AICondition Name = "机关状态" Type = "ValueSetCondition" ObjectType = "Actor" ValueName = "TrapState" ValueType = "Int" SetType = "None" Value = "1"/>
+				<AIAction Name = "FuncAction" Type = "TrapOnAttackAction"/>
+				<AICondition Name = "SetConditionName" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "PreAttackTime" ValueType = "Time" SetType = "Reset" Value = "None"/>
+				<Seq Name = "设置剩余攻击次数" Type = "AINodeSeq">
+					<AICondition Name = "攻击次数" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "TrapMaxAttackCount" ValueType = "Int" CompareType = "ValueHigh" Value = "0"/>
+					<AICondition Name = "剩余攻击次数" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "AttackCount" ValueType = "Int" SetType = "Sub" Value = "1"/>
+				</Seq>
+			</Seq>
+			<Seq Name = "待机" Type = "AINodeSeq">
+				<AIAction Name = "FuncAction" Type = "TrapOnStandByAction"/>
+				<AICondition Name = "机关状态" Type = "ValueSetCondition" ObjectType = "Actor" ValueName = "TrapState" ValueType = "Int" SetType = "None" Value = "0"/>
+			</Seq>
+		</Sel>
+	</Sel>
+</TouchSunkensTrapAI>

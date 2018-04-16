@@ -1,0 +1,5503 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ef-common-w2-skill0100-E02
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 155170640
+      - time: .0333333351
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1084227584
+      - time: .0666666701
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1634227045
+      - time: .100000001
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: flare_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 152819864
+      - time: .0666666701
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 158291596
+      - time: .100000001
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 158531584
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: flare02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 149225508
+      - time: .0666666701
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .100000001
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 49
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: glow01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: {x: 2.35730004, y: .100979999, z: 0}
+        inSlope: {x: .0412845574, y: .00309683359, z: 0}
+        outSlope: {x: .0412845574, y: .00309683359, z: 0}
+        tangentMode: 149225508
+      - time: .0666666701
+        value: {x: 2.3586762, y: .101083227, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1919906913
+      - time: .100000001
+        value: {x: 2.35773492, y: .101152487, z: 0}
+        inSlope: {x: .107031971, y: 0, z: 0}
+        outSlope: {x: .107031971, y: 0, z: 0}
+        tangentMode: 51
+      - time: .13333334
+        value: {x: .858164787, y: .0590000004, z: 0}
+        inSlope: {x: -44.9870949, y: -1.26457441, z: 0}
+        outSlope: {x: -44.9870949, y: -1.26457441, z: 0}
+        tangentMode: 1680
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: {x: -1.28531003, y: .504000008, z: 0}
+        inSlope: {x: .331442386, y: -.690000117, z: 0}
+        outSlope: {x: .331442386, y: -.690000117, z: 0}
+        tangentMode: 0
+      - time: .100000001
+        value: {x: -1.27426195, y: .481000006, z: 0}
+        inSlope: {x: 0, y: -.51000011, z: 0}
+        outSlope: {x: 0, y: -.51000011, z: 0}
+        tangentMode: 152831636
+      - time: .13333334
+        value: {x: -1.24551523, y: .469999999, z: 0}
+        inSlope: {x: 2.5087955, y: -.645000219, z: 0}
+        outSlope: {x: 2.5087955, y: -.645000219, z: 0}
+        tangentMode: 75
+      - time: .166666672
+        value: {x: -1.16199994, y: .437999994, z: 0}
+        inSlope: {x: 13.4911613, y: -2.53500009, z: 0}
+        outSlope: {x: 13.4911613, y: -2.53500009, z: 0}
+        tangentMode: 1869563508
+      - time: .200000003
+        value: {x: -.546999991, y: .300999999, z: 0}
+        inSlope: {x: 46.8100319, y: -4.11000013, z: 0}
+        outSlope: {x: 46.8100319, y: -4.11000013, z: 0}
+        tangentMode: 153248620
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.42900002, y: .953000009, z: 0}
+        inSlope: {x: -.119998448, y: .0599992238, z: 0}
+        outSlope: {x: -.119998448, y: .0599992238, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: -1.43299997, y: .954999983, z: 0}
+        inSlope: {x: 3.34500051, y: -2.2349999, z: 0}
+        outSlope: {x: 3.34500051, y: -2.2349999, z: 0}
+        tangentMode: 158001680
+      - time: .0666666701
+        value: {x: -1.20599997, y: .80400002, z: 0}
+        inSlope: {x: 4.1099987, y: -2.75999928, z: 0}
+        outSlope: {x: 4.1099987, y: -2.75999928, z: 0}
+        tangentMode: 75
+      - time: .100000001
+        value: {x: -1.15900004, y: .771000028, z: 0}
+        inSlope: {x: .690000117, y: -.450000495, z: 0}
+        outSlope: {x: .690000117, y: -.450000495, z: 0}
+        tangentMode: 17253
+      - time: .13333334
+        value: {x: -1.15999997, y: .773999989, z: 0}
+        inSlope: {x: 3.90000105, y: -2.55000043, z: 0}
+        outSlope: {x: 3.90000105, y: -2.55000043, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.898999989, y: .601000011, z: 0}
+        inSlope: {x: 11.1750002, y: -7.45499992, z: 0}
+        outSlope: {x: 11.1750002, y: -7.45499992, z: 0}
+        tangentMode: 0
+      - time: .200000003
+        value: {x: -.414999992, y: .27700001, z: 0}
+        inSlope: {x: 14.5200005, y: -9.72000027, z: 0}
+        outSlope: {x: 14.5200005, y: -9.72000027, z: 0}
+        tangentMode: -2147483635
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: {x: .666000009, y: -1.29900002, z: 0}
+        inSlope: {x: -1.05999994, y: 1.98999989, z: 0}
+        outSlope: {x: -1.05999994, y: 1.98999989, z: 0}
+        tangentMode: 0
+      - time: .13333334
+        value: {x: .560000002, y: -1.10000002, z: 0}
+        inSlope: {x: -5.31500053, y: 10.4300013, z: 0}
+        outSlope: {x: -5.31500053, y: 10.4300013, z: 0}
+        tangentMode: 158832272
+      - time: .166666672
+        value: {x: .240999997, y: -.470999986, z: 0}
+        inSlope: {x: -9.57000065, y: 18.8700027, z: 0}
+        outSlope: {x: -9.57000065, y: 18.8700027, z: 0}
+        tangentMode: 149225508
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: {x: -1.57889998, y: -.920459986, z: 0}
+        inSlope: {x: 1.10699773, y: .643799841, z: 0}
+        outSlope: {x: 1.10699773, y: .643799841, z: 0}
+        tangentMode: 0
+      - time: .0666666701
+        value: {x: -1.54200006, y: -.898999989, z: 0}
+        inSlope: {x: 1.07702589, y: .526772022, z: 0}
+        outSlope: {x: 1.07702589, y: .526772022, z: 0}
+        tangentMode: 1
+      - time: .100000001
+        value: {x: -1.50999999, y: -.879999995, z: 0}
+        inSlope: {x: 1.13087142, y: 0, z: 0}
+        outSlope: {x: 1.13087142, y: 0, z: 0}
+        tangentMode: 0
+      - time: .13333334
+        value: {x: -1.00999999, y: -.589999974, z: 0}
+        inSlope: {x: 28.6935387, y: 15.1537867, z: 0}
+        outSlope: {x: 28.6935387, y: 15.1537867, z: 0}
+        tangentMode: 57
+      - time: .166666672
+        value: {x: -.800000012, y: -.469999999, z: 0}
+        inSlope: {x: 2.0999999, y: 0, z: 0}
+        outSlope: {x: 2.0999999, y: 0, z: 0}
+        tangentMode: 0
+      - time: .200000003
+        value: {x: -.870000005, y: -.50999999, z: 0}
+        inSlope: {x: -2.0999999, y: 0, z: 0}
+        outSlope: {x: -2.0999999, y: 0, z: 0}
+        tangentMode: 1108606976
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: {x: 1.11300004, y: .995000005, z: 0}
+        inSlope: {x: -2.01000094, y: -1.77000034, z: 0}
+        outSlope: {x: -2.01000094, y: -1.77000034, z: 0}
+        tangentMode: 0
+      - time: .0666666701
+        value: {x: 1.046, y: .93599999, z: 0}
+        inSlope: {x: -1.0649997, y: -.945000291, z: 0}
+        outSlope: {x: -1.0649997, y: -.945000291, z: 0}
+        tangentMode: 1
+      - time: .100000001
+        value: {x: 1.04200006, y: .931999981, z: 0}
+        inSlope: {x: -.254999369, y: -.239999563, z: 0}
+        outSlope: {x: -.254999369, y: -.239999563, z: 0}
+        tangentMode: 0
+      - time: .13333334
+        value: {x: 1.02900004, y: .920000017, z: 0}
+        inSlope: {x: -1.7712661, y: -1.59006274, z: 0}
+        outSlope: {x: -1.7712661, y: -1.59006274, z: 0}
+        tangentMode: 57
+      - time: .166666672
+        value: {x: .894999981, y: .797999978, z: 0}
+        inSlope: {x: -10.0650005, y: -9.03000069, z: 0}
+        outSlope: {x: -10.0650005, y: -9.03000069, z: 0}
+        tangentMode: 0
+      - time: .200000003
+        value: {x: .35800001, y: .317999989, z: 0}
+        inSlope: {x: -16.1099987, y: -14.4000006, z: 0}
+        outSlope: {x: -16.1099987, y: -14.4000006, z: 0}
+        tangentMode: 7471201
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1842540491
+      - time: .266666681
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0393173099, y: -.0468564034, z: 0}
+        inSlope: {x: -1.15949649e-06, y: 1.50874246e-06, z: 0}
+        outSlope: {x: -1.15949649e-06, y: 1.50874246e-06, z: 0}
+        tangentMode: 344953108
+      - time: .266666681
+        value: {x: .0393170007, y: -.046856001, z: 0}
+        inSlope: {x: -1.15949649e-06, y: 1.50874246e-06, z: 0}
+        outSlope: {x: -1.15949649e-06, y: 1.50874246e-06, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0250000004, y: .0430000015, z: 0}
+        inSlope: {x: -.0300000031, y: -.0600000061, z: 0}
+        outSlope: {x: -.0300000031, y: -.0600000061, z: 0}
+        tangentMode: 3551232
+      - time: .0333333351
+        value: {x: .0240000002, y: .0410000011, z: 0}
+        inSlope: {x: -.329999983, y: -.570000052, z: 0}
+        outSlope: {x: -.329999983, y: -.570000052, z: 0}
+        tangentMode: 152055204
+      - time: .0666666701
+        value: {x: .00300000003, y: .00499999989, z: 0}
+        inSlope: {x: -.629999936, y: -1.08000004, z: 0}
+        outSlope: {x: -.629999936, y: -1.08000004, z: 0}
+        tangentMode: 149225473
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: glow_02
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3.71189237, y: .494822592, z: 0}
+        inSlope: {x: 77.7833176, y: -.595390439, z: 0}
+        outSlope: {x: 77.7833176, y: -.595390439, z: 0}
+        tangentMode: 149225508
+      - time: .0333333351
+        value: {x: 6.30466986, y: .474976242, z: 0}
+        inSlope: {x: 106.889191, y: -6.60595465, z: 0}
+        outSlope: {x: 106.889191, y: -6.60595465, z: 0}
+        tangentMode: 1919906913
+      - time: .0666666701
+        value: {x: 10.8378391, y: .0544256084, z: 0}
+        inSlope: {x: 88.9447327, y: -6.21050358, z: 0}
+        outSlope: {x: 88.9447327, y: -6.21050358, z: 0}
+        tangentMode: 0
+      - time: .100000001
+        value: {x: 12.2343187, y: .0609426796, z: 0}
+        inSlope: {x: 41.8943901, y: .195512146, z: 0}
+        outSlope: {x: 41.8943901, y: .195512146, z: 0}
+        tangentMode: 1680
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: flare_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 4.46007109, y: .120603435, z: 0}
+        inSlope: {x: 54.7401772, y: 1.30533695, z: 0}
+        outSlope: {x: 54.7401772, y: 1.30533695, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 6.28474379, y: .164114669, z: 0}
+        inSlope: {x: 110.40863, y: .198561788, z: 0}
+        outSlope: {x: 110.40863, y: .198561788, z: 0}
+        tangentMode: 152831636
+      - time: .0666666701
+        value: {x: 11.8206472, y: .133840889, z: 0}
+        inSlope: {x: 27.5874367, y: -1.38840938, z: 0}
+        outSlope: {x: 27.5874367, y: -1.38840938, z: 0}
+        tangentMode: 95
+      - time: .100000001
+        value: {x: 8.12390709, y: .0715540498, z: 0}
+        inSlope: {x: -143.184708, y: -1.70761323, z: 0}
+        outSlope: {x: -143.184708, y: -1.70761323, z: 0}
+        tangentMode: 1869563508
+      - time: .13333334
+        value: {x: 2.27499986, y: .0200000014, z: 0}
+        inSlope: {x: -175.467194, y: -1.54662108, z: 0}
+        outSlope: {x: -175.467194, y: -1.54662108, z: 0}
+        tangentMode: 1095761920
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: flare02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 8.25942898, y: .113239594, z: 0}
+        inSlope: {x: 14.9367418, y: 2.46914864, z: 0}
+        outSlope: {x: 14.9367418, y: 2.46914864, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 8.7573204, y: .195544556, z: 0}
+        inSlope: {x: 13.3915606, y: .482965291, z: 0}
+        outSlope: {x: 13.3915606, y: .482965291, z: 0}
+        tangentMode: 152831636
+      - time: .0666666701
+        value: {x: 9.15219975, y: .145437285, z: 0}
+        inSlope: {x: 6.4382453, y: -1.87287474, z: 0}
+        outSlope: {x: 6.4382453, y: -1.87287474, z: 0}
+        tangentMode: 75
+      - time: .100000001
+        value: {x: 9.18653679, y: .0706862435, z: 0}
+        inSlope: {x: -13.3915596, y: -.482965529, z: 0}
+        outSlope: {x: -13.3915596, y: -.482965529, z: 0}
+        tangentMode: 0
+      - time: .13333334
+        value: {x: 8.25942898, y: .113239594, z: 0}
+        inSlope: {x: -27.8132305, y: 1.27660024, z: 0}
+        outSlope: {x: -27.8132305, y: 1.27660024, z: 0}
+        tangentMode: 228771704
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: glow01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: {x: .584685147, y: -.28620404, z: .943784058}
+        inSlope: {x: 1.47091615, y: .315694183, z: 0}
+        outSlope: {x: 1.47091615, y: .315694183, z: 0}
+        tangentMode: 0
+      - time: .0666666701
+        value: {x: .633715689, y: -.2756809, z: .943784058}
+        inSlope: {x: 1.75500262, y: .223374814, z: 0}
+        outSlope: {x: 1.75500262, y: .223374814, z: 0}
+        tangentMode: 0
+      - time: .100000001
+        value: {x: .639704764, y: -.271312386, z: .943784058}
+        inSlope: {x: Infinity, y: 2.50125551, z: 0}
+        outSlope: {x: Infinity, y: 2.50125551, z: 0}
+        tangentMode: 0
+      - time: .13333334
+        value: {x: 2.62139845, y: -.108930491, z: .943784058}
+        inSlope: {x: 4.91797209, y: 4.87145567, z: 0}
+        outSlope: {x: 4.91797209, y: 4.87145567, z: 0}
+        tangentMode: 149225729
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: {x: .829999983, y: .0463876463, z: 1}
+        inSlope: {x: 0, y: 4.88702869, z: 0}
+        outSlope: {x: 0, y: 4.88702869, z: 0}
+        tangentMode: 0
+      - time: .0666666701
+        value: {x: .829999983, y: .209288612, z: 1}
+        inSlope: {x: 0, y: 5.34709835, z: 0}
+        outSlope: {x: 0, y: 5.34709835, z: 0}
+        tangentMode: 1
+      - time: .100000001
+        value: {x: .829999983, y: .40286088, z: 1}
+        inSlope: {x: 0, y: 2.59876013, z: 0}
+        outSlope: {x: 0, y: 2.59876013, z: 0}
+        tangentMode: 0
+      - time: .13333334
+        value: {x: .829999983, y: .382539272, z: 1}
+        inSlope: {x: 3.06788492, y: -.946633816, z: 0}
+        outSlope: {x: 3.06788492, y: -.946633816, z: 0}
+        tangentMode: 57
+      - time: .166666672
+        value: {x: 1.03452563, y: .339751959, z: 1}
+        inSlope: {x: 25.9445, y: -5.49928188, z: 0}
+        outSlope: {x: 25.9445, y: -5.49928188, z: 0}
+        tangentMode: 0
+      - time: .200000003
+        value: {x: 2.19374681, y: .0159205236, z: 1}
+        inSlope: {x: -131.062561, y: -9.71494389, z: 0}
+        outSlope: {x: -131.062561, y: -9.71494389, z: 0}
+        tangentMode: 6881381
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.07591367, y: 1.1702925, z: .943784118}
+        inSlope: {x: 0, y: .213714823, z: 0}
+        outSlope: {x: 0, y: .213714823, z: 0}
+        tangentMode: 149225508
+      - time: .0333333351
+        value: {x: -1.07591367, y: 1.17741632, z: .943784118}
+        inSlope: {x: 0, y: -3.83633661, z: 0}
+        outSlope: {x: 0, y: -3.83633661, z: 0}
+        tangentMode: 1953067887
+      - time: .0666666701
+        value: {x: -1.07591367, y: .914536715, z: .943784118}
+        inSlope: {x: -.906801283, y: -5.23935795, z: 0}
+        outSlope: {x: -.906801283, y: -5.23935795, z: 0}
+        tangentMode: 151050764
+      - time: .100000001
+        value: {x: -1.13636708, y: .828125775, z: .943784118}
+        inSlope: {x: -.0864459872, y: -4.13195086, z: 0}
+        outSlope: {x: -.0864459872, y: -4.13195086, z: 0}
+        tangentMode: 0
+      - time: .13333334
+        value: {x: -1.08167672, y: .639073312, z: .943784118}
+        inSlope: {x: -7.58536243, y: -9.7776947, z: 0}
+        outSlope: {x: -7.58536243, y: -9.7776947, z: 0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -1.6420579, y: .176279455, z: .943784118}
+        inSlope: {x: -2.60639906, y: -7.66133165, z: 0}
+        outSlope: {x: -2.60639906, y: -7.66133165, z: 0}
+        tangentMode: 59
+      - time: .200000003
+        value: {x: -1.25543666, y: .128317893, z: .943784118}
+        inSlope: {x: 11.5986376, y: -1.43884695, z: 0}
+        outSlope: {x: 11.5986376, y: -1.43884695, z: 0}
+        tangentMode: 1953394499
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: {x: 1.13057041, y: -.40500468, z: .943784058}
+        inSlope: {x: 5.52345133, y: 3.47659516, z: 0}
+        outSlope: {x: 5.52345133, y: 3.47659516, z: 0}
+        tangentMode: 0
+      - time: .0666666701
+        value: {x: 1.31468546, y: -.289118171, z: .943784058}
+        inSlope: {x: 2.76172566, y: 2.65899014, z: 0}
+        outSlope: {x: 2.76172566, y: 2.65899014, z: 0}
+        tangentMode: 152831636
+      - time: .166666672
+        value: {x: 1.31468546, y: -.104979649, z: .943784058}
+        inSlope: {x: 0, y: 1.84138525, z: 0}
+        outSlope: {x: 0, y: 1.84138525, z: 0}
+        tangentMode: -589735
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: {x: .78838557, y: -.338935405, z: 1}
+        inSlope: {x: 3.20359278, y: 0, z: 0}
+        outSlope: {x: 3.20359278, y: 0, z: 0}
+        tangentMode: 0
+      - time: .0666666701
+        value: {x: .895172, y: -.338935405, z: 1}
+        inSlope: {x: 1.60179639, y: .0750330165, z: 0}
+        outSlope: {x: 1.60179639, y: .0750330165, z: 0}
+        tangentMode: 159084476
+      - time: .100000001
+        value: {x: .895172, y: -.333933204, z: 1}
+        inSlope: {x: 20.3274155, y: 2.48021698, z: 0}
+        outSlope: {x: 20.3274155, y: 2.48021698, z: 0}
+        tangentMode: 95
+      - time: .13333334
+        value: {x: 2.25033331, y: -.173587576, z: 1}
+        inSlope: {x: 15.8178768, y: 4.11680031, z: 0}
+        outSlope: {x: 15.8178768, y: 4.11680031, z: 0}
+        tangentMode: 1768249189
+      - time: .166666672
+        value: {x: 1.94969738, y: -.0594798252, z: 1}
+        inSlope: {x: -9.01907825, y: 3.42323279, z: 0}
+        outSlope: {x: -9.01907825, y: 3.42323279, z: 0}
+        tangentMode: 257
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 151583824
+      - time: .200000003
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 84
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: {x: .748017073, y: -.851084292, z: .943784058}
+        inSlope: {x: 0, y: 9.12398815, z: 0}
+        outSlope: {x: 0, y: 9.12398815, z: 0}
+        tangentMode: 1032358025
+      - time: .0666666701
+        value: {x: .748017073, y: -.546951354, z: .943784058}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 152819864
+      - time: .100000001
+        value: {x: .748017073, y: -.538024068, z: .943784058}
+        inSlope: {x: .0889268368, y: 1.61181605, z: 0}
+        outSlope: {x: .0889268368, y: 1.61181605, z: 0}
+        tangentMode: 1056293520
+      - time: .13333334
+        value: {x: .753945529, y: -.439496934, z: .943784058}
+        inSlope: {x: 0, y: 3.19625902, z: 0}
+        outSlope: {x: 0, y: 3.19625902, z: 0}
+        tangentMode: 1051260355
+      - time: .166666672
+        value: {x: 1.01264381, y: -.332253635, z: .943784058}
+        inSlope: {x: 10.2340899, y: 2.76852798, z: 0}
+        outSlope: {x: 10.2340899, y: 2.76852798, z: 0}
+        tangentMode: 4
+      - time: .200000003
+        value: {x: 1.43621814, y: -.121230014, z: .943784058}
+        inSlope: {x: 12.7072306, y: 0, z: 0}
+        outSlope: {x: 12.7072306, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: {x: 7.69006205, y: .512729108, z: 0}
+        inSlope: {x: 6.43628645, y: 40.0524788, z: 0}
+        outSlope: {x: 6.43628645, y: 40.0524788, z: 0}
+        tangentMode: 0
+      - time: .233333334
+        value: {x: 7.90460491, y: 1.84781158, z: 0}
+        inSlope: {x: 7.44480228, y: 41.4889297, z: 0}
+        outSlope: {x: 7.44480228, y: 41.4889297, z: 0}
+        tangentMode: 152831636
+      - time: .266666681
+        value: {x: 8.18638229, y: 3.27865815, z: 0}
+        inSlope: {x: 8.4533186, y: 42.9253807, z: 0}
+        outSlope: {x: 8.4533186, y: 42.9253807, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .266666681
+        value: {x: 11.8027792, y: .88245672, z: 0}
+        inSlope: {x: 37.0835228, y: 35.3521194, z: 0}
+        outSlope: {x: 37.0835228, y: 35.3521194, z: 0}
+        tangentMode: 149225508
+      - time: .300000012
+        value: {x: 13.0388966, y: 2.06086063, z: 0}
+        inSlope: {x: -30.0575809, y: -8.19884872, z: 0}
+        outSlope: {x: -30.0575809, y: -8.19884872, z: 0}
+        tangentMode: 21604
+      - time: .333333343
+        value: {x: 9.79894066, y: .335866839, z: 0}
+        inSlope: {x: -97.1986847, y: -51.7498169, z: 0}
+        outSlope: {x: -97.1986847, y: -51.7498169, z: 0}
+        tangentMode: -589736
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: GameObject/light_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 5.7558856, y: .499088109, z: 0}
+        inSlope: {x: 69.4078827, y: -.529790819, z: 0}
+        outSlope: {x: 69.4078827, y: -.529790819, z: 0}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 8.06948185, y: .481428415, z: 0}
+        inSlope: {x: 124.191353, y: -5.91097927, z: 0}
+        outSlope: {x: 124.191353, y: -5.91097927, z: 0}
+        tangentMode: 1700212340
+      - time: .0666666701
+        value: {x: 14.0353098, y: .105022803, z: 0}
+        inSlope: {x: 134.480072, y: -6.17826986, z: 0}
+        outSlope: {x: 134.480072, y: -6.17826986, z: 0}
+        tangentMode: 0
+      - time: .100000001
+        value: {x: 17.0348206, y: .0695437416, z: 0}
+        inSlope: {x: 89.9853287, y: -1.06437194, z: 0}
+        outSlope: {x: 89.9853287, y: -1.06437194, z: 0}
+        tangentMode: 15
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: glow_02
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: flare_2
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: flare_2
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: flare_2
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333313
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666627
+        value: .99968493
+        inSlope: -.905442417
+        outSlope: -.905442417
+        tangentMode: 0
+      - time: .100000001
+        value: -1.82574224
+        inSlope: -799.022644
+        outSlope: -799.022644
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: flare_2
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: flare02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: flare02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: flare02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: -185.271484
+        outSlope: -185.271484
+        tangentMode: 0
+      - time: .0666666701
+        value: 1.00436676
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: -30.1310043
+        outSlope: -30.1310043
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: flare02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: glow01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: glow01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: glow01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: -366.979797
+        outSlope: -366.979797
+        tangentMode: 0
+      - time: .0666666627
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: -29.9999943
+        outSlope: -29.9999943
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: glow01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: 1
+        inSlope: -.32868281
+        outSlope: -.32868281
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 74.0615463
+        outSlope: 74.0615463
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: .10112083
+        outSlope: .10112083
+        tangentMode: 0
+      - time: .200000003
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: -61.0540123
+        outSlope: -61.0540123
+        tangentMode: 0
+      - time: .0666666701
+        value: .975909233
+        inSlope: 79.7369995
+        outSlope: 79.7369995
+        tangentMode: 0
+      - time: .166666672
+        value: .959015846
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: -.0409841463
+        inSlope: 3102.55542
+        outSlope: 3102.55542
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -27.526825
+        outSlope: -27.526825
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 4.38868618
+        outSlope: 4.38868618
+        tangentMode: 0
+      - time: .0666666701
+        value: 1
+        inSlope: 109.433502
+        outSlope: 109.433502
+        tangentMode: 0
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_06
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_06
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_06
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      - time: .0333333351
+        value: 1
+        inSlope: 14.999999
+        outSlope: 14.999999
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: -15.000001
+        outSlope: -15.000001
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 40.511879
+        outSlope: 40.511879
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_06
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: 0
+        inSlope: -30.0000019
+        outSlope: -30.0000019
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .233333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .233333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .233333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: -.0349628814
+        inSlope: 139.971924
+        outSlope: 139.971924
+        tangentMode: 0
+      - time: .233333334
+        value: 1
+        inSlope: 2.53434372
+        outSlope: 2.53434372
+        tangentMode: 0
+      - time: .266666681
+        value: 1
+        inSlope: .102802798
+        outSlope: .102802798
+        tangentMode: 0
+      - time: .300000012
+        value: 0
+        inSlope: 657.033875
+        outSlope: 657.033875
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_08
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_08
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_08
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .266666681
+        value: 0
+        inSlope: 30.0000019
+        outSlope: 30.0000019
+        tangentMode: 10
+      - time: .300000012
+        value: 1
+        inSlope: .94857502
+        outSlope: .94857502
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_08
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: glow_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: glow_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: glow_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: -14.9999971
+        outSlope: -14.9999971
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: -29.9999943
+        outSlope: -29.9999943
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: glow_02
+    classID: 23
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 3006503729
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1515208196
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3277418430
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3291786151
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1564342813
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 760680082
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3129333530
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 833623155
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3568322234
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 919941586
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1150462788
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3006503729
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1515208196
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3277418430
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3291786151
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1564342813
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 760680082
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 708496011
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3129333530
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 833623155
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3568322234
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 919941586
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1150462788
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3006503729
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1515208196
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3277418430
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3291786151
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1564342813
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 760680082
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 708496011
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3129333530
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 833623155
+      attribute: 1895888582
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3568322234
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 919941586
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1150462788
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 708496011
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1482111001
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3568322234
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3568322234
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3568322234
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 919941586
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 919941586
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 919941586
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1150462788
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1150462788
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1150462788
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3006503729
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3006503729
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3006503729
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1515208196
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1515208196
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1515208196
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3277418430
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3277418430
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3277418430
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3291786151
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3291786151
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3291786151
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1564342813
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1564342813
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1564342813
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 760680082
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 760680082
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 760680082
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 708496011
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 708496011
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 708496011
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3129333530
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3129333530
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 3129333530
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 833623155
+      attribute: 1090582214
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 833623155
+      attribute: 1359017670
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 833623155
+      attribute: 1627453126
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .333333343
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3.71189237
+        inSlope: 77.7833176
+        outSlope: 77.7833176
+        tangentMode: 10
+      - time: .0333333351
+        value: 6.30466986
+        inSlope: 106.889191
+        outSlope: 106.889191
+        tangentMode: 10
+      - time: .0666666701
+        value: 10.8378391
+        inSlope: 88.9447327
+        outSlope: 88.9447327
+        tangentMode: 10
+      - time: .100000001
+        value: 12.2343187
+        inSlope: 41.8943901
+        outSlope: 41.8943901
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: flare_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .494822592
+        inSlope: -.595390439
+        outSlope: -.595390439
+        tangentMode: 10
+      - time: .0333333351
+        value: .474976242
+        inSlope: -6.60595465
+        outSlope: -6.60595465
+        tangentMode: 10
+      - time: .0666666701
+        value: .0544256084
+        inSlope: -6.21050358
+        outSlope: -6.21050358
+        tangentMode: 10
+      - time: .100000001
+        value: .0609426796
+        inSlope: .195512146
+        outSlope: .195512146
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: flare_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: flare_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: flare_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: flare_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: flare_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: flare_2
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: flare_2
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: flare_2
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333313
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666627
+        value: .99968493
+        inSlope: -.905442417
+        outSlope: -.905442417
+        tangentMode: 0
+      - time: .100000001
+        value: -1.82574224
+        inSlope: -799.022644
+        outSlope: -799.022644
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: flare_2
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.46007109
+        inSlope: 54.7401772
+        outSlope: 54.7401772
+        tangentMode: 10
+      - time: .0333333351
+        value: 6.28474379
+        inSlope: 110.40863
+        outSlope: 110.40863
+        tangentMode: 10
+      - time: .0666666701
+        value: 11.8206472
+        inSlope: 27.5874367
+        outSlope: 27.5874367
+        tangentMode: 10
+      - time: .100000001
+        value: 8.12390709
+        inSlope: -143.184708
+        outSlope: -143.184708
+        tangentMode: 10
+      - time: .13333334
+        value: 2.27499986
+        inSlope: -175.467194
+        outSlope: -175.467194
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: flare02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .120603435
+        inSlope: 1.30533695
+        outSlope: 1.30533695
+        tangentMode: 10
+      - time: .0333333351
+        value: .164114669
+        inSlope: .198561788
+        outSlope: .198561788
+        tangentMode: 10
+      - time: .0666666701
+        value: .133840889
+        inSlope: -1.38840938
+        outSlope: -1.38840938
+        tangentMode: 10
+      - time: .100000001
+        value: .0715540498
+        inSlope: -1.70761323
+        outSlope: -1.70761323
+        tangentMode: 10
+      - time: .13333334
+        value: .0200000014
+        inSlope: -1.54662108
+        outSlope: -1.54662108
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: flare02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: flare02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: flare02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: flare02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: flare02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: flare02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: flare02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: flare02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: -185.271484
+        outSlope: -185.271484
+        tangentMode: 0
+      - time: .0666666701
+        value: 1.00436676
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: -30.1310043
+        outSlope: -30.1310043
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: flare02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 8.25942898
+        inSlope: 14.9367418
+        outSlope: 14.9367418
+        tangentMode: 10
+      - time: .0333333351
+        value: 8.7573204
+        inSlope: 13.3915606
+        outSlope: 13.3915606
+        tangentMode: 10
+      - time: .0666666701
+        value: 9.15219975
+        inSlope: 6.4382453
+        outSlope: 6.4382453
+        tangentMode: 10
+      - time: .100000001
+        value: 9.18653679
+        inSlope: -13.3915596
+        outSlope: -13.3915596
+        tangentMode: 10
+      - time: .13333334
+        value: 8.25942898
+        inSlope: -27.8132305
+        outSlope: -27.8132305
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: glow01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .113239594
+        inSlope: 2.46914864
+        outSlope: 2.46914864
+        tangentMode: 10
+      - time: .0333333351
+        value: .195544556
+        inSlope: .482965291
+        outSlope: .482965291
+        tangentMode: 10
+      - time: .0666666701
+        value: .145437285
+        inSlope: -1.87287474
+        outSlope: -1.87287474
+        tangentMode: 10
+      - time: .100000001
+        value: .0706862435
+        inSlope: -.482965529
+        outSlope: -.482965529
+        tangentMode: 10
+      - time: .13333334
+        value: .113239594
+        inSlope: 1.27660024
+        outSlope: 1.27660024
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: glow01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: glow01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: glow01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: glow01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: glow01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: glow01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: glow01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: glow01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: -366.979797
+        outSlope: -366.979797
+        tangentMode: 0
+      - time: .0666666627
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 0
+        inSlope: -29.9999943
+        outSlope: -29.9999943
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: glow01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 2.35730004
+        inSlope: .0412845574
+        outSlope: .0412845574
+        tangentMode: 10
+      - time: .0666666701
+        value: 2.3586762
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: 2.35773492
+        inSlope: .107031971
+        outSlope: .107031971
+        tangentMode: 0
+      - time: .13333334
+        value: .858164787
+        inSlope: -44.9870949
+        outSlope: -44.9870949
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: GameObject/light_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .100979999
+        inSlope: .00309683359
+        outSlope: .00309683359
+        tangentMode: 10
+      - time: .0666666701
+        value: .101083227
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: .101152487
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: .0590000004
+        inSlope: -1.26457441
+        outSlope: -1.26457441
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: GameObject/light_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: GameObject/light_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .584685147
+        inSlope: 1.47091615
+        outSlope: 1.47091615
+        tangentMode: 10
+      - time: .0666666701
+        value: .633715689
+        inSlope: 1.75500262
+        outSlope: 1.75500262
+        tangentMode: 0
+      - time: .100000001
+        value: .639704764
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      - time: .13333334
+        value: 2.62139845
+        inSlope: 4.91797209
+        outSlope: 4.91797209
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: GameObject/light_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -.28620404
+        inSlope: .315694183
+        outSlope: .315694183
+        tangentMode: 10
+      - time: .0666666701
+        value: -.2756809
+        inSlope: .223374814
+        outSlope: .223374814
+        tangentMode: 10
+      - time: .100000001
+        value: -.271312386
+        inSlope: 2.50125551
+        outSlope: 2.50125551
+        tangentMode: 10
+      - time: .13333334
+        value: -.108930491
+        inSlope: 4.87145567
+        outSlope: 4.87145567
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: GameObject/light_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: GameObject/light_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: 1
+        inSlope: -.32868281
+        outSlope: -.32868281
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 74.0615463
+        outSlope: 74.0615463
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_04
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: -1.28531003
+        inSlope: .331442386
+        outSlope: .331442386
+        tangentMode: 10
+      - time: .100000001
+        value: -1.27426195
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: -1.24551523
+        inSlope: 2.5087955
+        outSlope: 2.5087955
+        tangentMode: 0
+      - time: .166666672
+        value: -1.16199994
+        inSlope: 13.4911613
+        outSlope: 13.4911613
+        tangentMode: 0
+      - time: .200000003
+        value: -.546999991
+        inSlope: 46.8100319
+        outSlope: 46.8100319
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: GameObject/light_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: .504000008
+        inSlope: -.690000117
+        outSlope: -.690000117
+        tangentMode: 10
+      - time: .100000001
+        value: .481000006
+        inSlope: -.51000011
+        outSlope: -.51000011
+        tangentMode: 10
+      - time: .13333334
+        value: .469999999
+        inSlope: -.645000219
+        outSlope: -.645000219
+        tangentMode: 10
+      - time: .166666672
+        value: .437999994
+        inSlope: -2.53500009
+        outSlope: -2.53500009
+        tangentMode: 10
+      - time: .200000003
+        value: .300999999
+        inSlope: -4.11000013
+        outSlope: -4.11000013
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: GameObject/light_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: GameObject/light_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .829999983
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: .829999983
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: .829999983
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: .829999983
+        inSlope: 3.06788492
+        outSlope: 3.06788492
+        tangentMode: 10
+      - time: .166666672
+        value: 1.03452563
+        inSlope: 25.9445
+        outSlope: 25.9445
+        tangentMode: 0
+      - time: .200000003
+        value: 2.19374681
+        inSlope: -131.062561
+        outSlope: -131.062561
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: GameObject/light_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .0463876463
+        inSlope: 4.88702869
+        outSlope: 4.88702869
+        tangentMode: 10
+      - time: .0666666701
+        value: .209288612
+        inSlope: 5.34709835
+        outSlope: 5.34709835
+        tangentMode: 10
+      - time: .100000001
+        value: .40286088
+        inSlope: 2.59876013
+        outSlope: 2.59876013
+        tangentMode: 10
+      - time: .13333334
+        value: .382539272
+        inSlope: -.946633816
+        outSlope: -.946633816
+        tangentMode: 10
+      - time: .166666672
+        value: .339751959
+        inSlope: -5.49928188
+        outSlope: -5.49928188
+        tangentMode: 10
+      - time: .200000003
+        value: .0159205236
+        inSlope: -9.71494389
+        outSlope: -9.71494389
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: GameObject/light_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: GameObject/light_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: .10112083
+        outSlope: .10112083
+        tangentMode: 0
+      - time: .200000003
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.42900002
+        inSlope: -.119998448
+        outSlope: -.119998448
+        tangentMode: 10
+      - time: .0333333351
+        value: -1.43299997
+        inSlope: 3.34500051
+        outSlope: 3.34500051
+        tangentMode: 10
+      - time: .0666666701
+        value: -1.20599997
+        inSlope: 4.1099987
+        outSlope: 4.1099987
+        tangentMode: 10
+      - time: .100000001
+        value: -1.15900004
+        inSlope: .690000117
+        outSlope: .690000117
+        tangentMode: 10
+      - time: .13333334
+        value: -1.15999997
+        inSlope: 3.90000105
+        outSlope: 3.90000105
+        tangentMode: 10
+      - time: .166666672
+        value: -.898999989
+        inSlope: 11.1750002
+        outSlope: 11.1750002
+        tangentMode: 10
+      - time: .200000003
+        value: -.414999992
+        inSlope: 14.5200005
+        outSlope: 14.5200005
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: GameObject/light_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .953000009
+        inSlope: .0599992238
+        outSlope: .0599992238
+        tangentMode: 10
+      - time: .0333333351
+        value: .954999983
+        inSlope: -2.2349999
+        outSlope: -2.2349999
+        tangentMode: 10
+      - time: .0666666701
+        value: .80400002
+        inSlope: -2.75999928
+        outSlope: -2.75999928
+        tangentMode: 10
+      - time: .100000001
+        value: .771000028
+        inSlope: -.450000495
+        outSlope: -.450000495
+        tangentMode: 10
+      - time: .13333334
+        value: .773999989
+        inSlope: -2.55000043
+        outSlope: -2.55000043
+        tangentMode: 10
+      - time: .166666672
+        value: .601000011
+        inSlope: -7.45499992
+        outSlope: -7.45499992
+        tangentMode: 10
+      - time: .200000003
+        value: .27700001
+        inSlope: -9.72000027
+        outSlope: -9.72000027
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: GameObject/light_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: GameObject/light_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1.07591367
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: -1.07591367
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: -1.07591367
+        inSlope: -.906801283
+        outSlope: -.906801283
+        tangentMode: 10
+      - time: .100000001
+        value: -1.13636708
+        inSlope: -.0864459872
+        outSlope: -.0864459872
+        tangentMode: 10
+      - time: .13333334
+        value: -1.08167672
+        inSlope: -7.58536243
+        outSlope: -7.58536243
+        tangentMode: 10
+      - time: .166666672
+        value: -1.6420579
+        inSlope: -2.60639906
+        outSlope: -2.60639906
+        tangentMode: 10
+      - time: .200000003
+        value: -1.25543666
+        inSlope: 11.5986376
+        outSlope: 11.5986376
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: GameObject/light_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.1702925
+        inSlope: .213714823
+        outSlope: .213714823
+        tangentMode: 10
+      - time: .0333333351
+        value: 1.17741632
+        inSlope: -3.83633661
+        outSlope: -3.83633661
+        tangentMode: 10
+      - time: .0666666701
+        value: .914536715
+        inSlope: -5.23935795
+        outSlope: -5.23935795
+        tangentMode: 10
+      - time: .100000001
+        value: .828125775
+        inSlope: -4.13195086
+        outSlope: -4.13195086
+        tangentMode: 10
+      - time: .13333334
+        value: .639073312
+        inSlope: -9.7776947
+        outSlope: -9.7776947
+        tangentMode: 10
+      - time: .166666672
+        value: .176279455
+        inSlope: -7.66133165
+        outSlope: -7.66133165
+        tangentMode: 10
+      - time: .200000003
+        value: .128317893
+        inSlope: -1.43884695
+        outSlope: -1.43884695
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: GameObject/light_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .943784118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: .943784118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: .943784118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: .943784118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: .943784118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: .943784118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: .943784118
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: GameObject/light_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: -61.0540123
+        outSlope: -61.0540123
+        tangentMode: 0
+      - time: .0666666701
+        value: .975909233
+        inSlope: 79.7369995
+        outSlope: 79.7369995
+        tangentMode: 0
+      - time: .166666672
+        value: .959015846
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: -.0409841463
+        inSlope: 3102.55542
+        outSlope: 3102.55542
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_01
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .666000009
+        inSlope: -1.05999994
+        outSlope: -1.05999994
+        tangentMode: 10
+      - time: .13333334
+        value: .560000002
+        inSlope: -5.31500053
+        outSlope: -5.31500053
+        tangentMode: 10
+      - time: .166666672
+        value: .240999997
+        inSlope: -9.57000065
+        outSlope: -9.57000065
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: GameObject/light_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -1.29900002
+        inSlope: 1.98999989
+        outSlope: 1.98999989
+        tangentMode: 10
+      - time: .13333334
+        value: -1.10000002
+        inSlope: 10.4300013
+        outSlope: 10.4300013
+        tangentMode: 10
+      - time: .166666672
+        value: -.470999986
+        inSlope: 18.8700027
+        outSlope: 18.8700027
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: GameObject/light_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: GameObject/light_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1.13057041
+        inSlope: 5.52345133
+        outSlope: 5.52345133
+        tangentMode: 10
+      - time: .0666666701
+        value: 1.31468546
+        inSlope: 2.76172566
+        outSlope: 2.76172566
+        tangentMode: 10
+      - time: .166666672
+        value: 1.31468546
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: GameObject/light_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -.40500468
+        inSlope: 3.47659516
+        outSlope: 3.47659516
+        tangentMode: 10
+      - time: .0666666701
+        value: -.289118171
+        inSlope: 2.65899014
+        outSlope: 2.65899014
+        tangentMode: 10
+      - time: .166666672
+        value: -.104979649
+        inSlope: 1.84138525
+        outSlope: 1.84138525
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: GameObject/light_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: GameObject/light_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -27.526825
+        outSlope: -27.526825
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 4.38868618
+        outSlope: 4.38868618
+        tangentMode: 0
+      - time: .0666666701
+        value: 1
+        inSlope: 109.433502
+        outSlope: 109.433502
+        tangentMode: 0
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_05
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -1.57889998
+        inSlope: 1.10699773
+        outSlope: 1.10699773
+        tangentMode: 10
+      - time: .0666666701
+        value: -1.54200006
+        inSlope: 1.07702589
+        outSlope: 1.07702589
+        tangentMode: 0
+      - time: .100000001
+        value: -1.50999999
+        inSlope: 1.13087142
+        outSlope: 1.13087142
+        tangentMode: 0
+      - time: .13333334
+        value: -1.00999999
+        inSlope: 28.6935387
+        outSlope: 28.6935387
+        tangentMode: 0
+      - time: .166666672
+        value: -.800000012
+        inSlope: 2.0999999
+        outSlope: 2.0999999
+        tangentMode: 10
+      - time: .200000003
+        value: -.870000005
+        inSlope: -2.0999999
+        outSlope: -2.0999999
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: GameObject/light_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -.920459986
+        inSlope: .643799841
+        outSlope: .643799841
+        tangentMode: 10
+      - time: .0666666701
+        value: -.898999989
+        inSlope: .526772022
+        outSlope: .526772022
+        tangentMode: 0
+      - time: .100000001
+        value: -.879999995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .13333334
+        value: -.589999974
+        inSlope: 15.1537867
+        outSlope: 15.1537867
+        tangentMode: 0
+      - time: .166666672
+        value: -.469999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: -.50999999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: GameObject/light_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: GameObject/light_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .78838557
+        inSlope: 3.20359278
+        outSlope: 3.20359278
+        tangentMode: 10
+      - time: .0666666701
+        value: .895172
+        inSlope: 1.60179639
+        outSlope: 1.60179639
+        tangentMode: 10
+      - time: .100000001
+        value: .895172
+        inSlope: 20.3274155
+        outSlope: 20.3274155
+        tangentMode: 10
+      - time: .13333334
+        value: 2.25033331
+        inSlope: 15.8178768
+        outSlope: 15.8178768
+        tangentMode: 10
+      - time: .166666672
+        value: 1.94969738
+        inSlope: -9.01907825
+        outSlope: -9.01907825
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: GameObject/light_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -.338935405
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: -.338935405
+        inSlope: .0750330165
+        outSlope: .0750330165
+        tangentMode: 10
+      - time: .100000001
+        value: -.333933204
+        inSlope: 2.48021698
+        outSlope: 2.48021698
+        tangentMode: 10
+      - time: .13333334
+        value: -.173587576
+        inSlope: 4.11680031
+        outSlope: 4.11680031
+        tangentMode: 10
+      - time: .166666672
+        value: -.0594798252
+        inSlope: 3.42323279
+        outSlope: 3.42323279
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: GameObject/light_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: GameObject/light_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_06
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_06
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_06
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      - time: .0333333351
+        value: 1
+        inSlope: 14.999999
+        outSlope: 14.999999
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: -15.000001
+        outSlope: -15.000001
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 40.511879
+        outSlope: 40.511879
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_06
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 1.11300004
+        inSlope: -2.01000094
+        outSlope: -2.01000094
+        tangentMode: 10
+      - time: .0666666701
+        value: 1.046
+        inSlope: -1.0649997
+        outSlope: -1.0649997
+        tangentMode: 10
+      - time: .100000001
+        value: 1.04200006
+        inSlope: -.254999369
+        outSlope: -.254999369
+        tangentMode: 10
+      - time: .13333334
+        value: 1.02900004
+        inSlope: -1.7712661
+        outSlope: -1.7712661
+        tangentMode: 0
+      - time: .166666672
+        value: .894999981
+        inSlope: -10.0650005
+        outSlope: -10.0650005
+        tangentMode: 10
+      - time: .200000003
+        value: .35800001
+        inSlope: -16.1099987
+        outSlope: -16.1099987
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: GameObject/light_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .995000005
+        inSlope: -1.77000034
+        outSlope: -1.77000034
+        tangentMode: 10
+      - time: .0666666701
+        value: .93599999
+        inSlope: -.945000291
+        outSlope: -.945000291
+        tangentMode: 10
+      - time: .100000001
+        value: .931999981
+        inSlope: -.239999563
+        outSlope: -.239999563
+        tangentMode: 10
+      - time: .13333334
+        value: .920000017
+        inSlope: -1.59006274
+        outSlope: -1.59006274
+        tangentMode: 0
+      - time: .166666672
+        value: .797999978
+        inSlope: -9.03000069
+        outSlope: -9.03000069
+        tangentMode: 10
+      - time: .200000003
+        value: .317999989
+        inSlope: -14.4000006
+        outSlope: -14.4000006
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: GameObject/light_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: GameObject/light_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: GameObject
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: GameObject
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: GameObject
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .748017073
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: .748017073
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: .748017073
+        inSlope: .0889268368
+        outSlope: .0889268368
+        tangentMode: 10
+      - time: .13333334
+        value: .753945529
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1.01264381
+        inSlope: 10.2340899
+        outSlope: 10.2340899
+        tangentMode: 10
+      - time: .200000003
+        value: 1.43621814
+        inSlope: 12.7072306
+        outSlope: 12.7072306
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: GameObject/light_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: -.851084292
+        inSlope: 9.12398815
+        outSlope: 9.12398815
+        tangentMode: 10
+      - time: .0666666701
+        value: -.546951354
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .100000001
+        value: -.538024068
+        inSlope: 1.61181605
+        outSlope: 1.61181605
+        tangentMode: 10
+      - time: .13333334
+        value: -.439496934
+        inSlope: 3.19625902
+        outSlope: 3.19625902
+        tangentMode: 0
+      - time: .166666672
+        value: -.332253635
+        inSlope: 2.76852798
+        outSlope: 2.76852798
+        tangentMode: 0
+      - time: .200000003
+        value: -.121230014
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: GameObject/light_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: .943784058
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: GameObject/light_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .200000003
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .0333333351
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      - time: .0666666701
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: 0
+        inSlope: -30.0000019
+        outSlope: -30.0000019
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_03
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: 7.69006205
+        inSlope: 6.43628645
+        outSlope: 6.43628645
+        tangentMode: 10
+      - time: .233333334
+        value: 7.90460491
+        inSlope: 7.44480228
+        outSlope: 7.44480228
+        tangentMode: 10
+      - time: .266666681
+        value: 8.18638229
+        inSlope: 8.4533186
+        outSlope: 8.4533186
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: GameObject/light_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: .512729108
+        inSlope: 40.0524788
+        outSlope: 40.0524788
+        tangentMode: 10
+      - time: .233333334
+        value: 1.84781158
+        inSlope: 41.4889297
+        outSlope: 41.4889297
+        tangentMode: 10
+      - time: .266666681
+        value: 3.27865815
+        inSlope: 42.9253807
+        outSlope: 42.9253807
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: GameObject/light_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .233333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: GameObject/light_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: GameObject/light_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: GameObject/light_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: GameObject/light_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .233333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .233333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .233333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .200000003
+        value: -.0349628814
+        inSlope: 139.971924
+        outSlope: 139.971924
+        tangentMode: 0
+      - time: .233333334
+        value: 1
+        inSlope: 2.53434372
+        outSlope: 2.53434372
+        tangentMode: 0
+      - time: .266666681
+        value: 1
+        inSlope: .102802798
+        outSlope: .102802798
+        tangentMode: 0
+      - time: .300000012
+        value: 0
+        inSlope: 657.033875
+        outSlope: 657.033875
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_07
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .266666681
+        value: 11.8027792
+        inSlope: 37.0835228
+        outSlope: 37.0835228
+        tangentMode: 10
+      - time: .300000012
+        value: 13.0388966
+        inSlope: -30.0575809
+        outSlope: -30.0575809
+        tangentMode: 10
+      - time: .333333343
+        value: 9.79894066
+        inSlope: -97.1986847
+        outSlope: -97.1986847
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: GameObject/light_08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .266666681
+        value: .88245672
+        inSlope: 35.3521194
+        outSlope: 35.3521194
+        tangentMode: 10
+      - time: .300000012
+        value: 2.06086063
+        inSlope: -8.19884872
+        outSlope: -8.19884872
+        tangentMode: 10
+      - time: .333333343
+        value: .335866839
+        inSlope: -51.7498169
+        outSlope: -51.7498169
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: GameObject/light_08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .300000012
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: GameObject/light_08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0393173099
+        inSlope: -1.15949649e-06
+        outSlope: -1.15949649e-06
+        tangentMode: 10
+      - time: .266666681
+        value: .0393170007
+        inSlope: -1.15949649e-06
+        outSlope: -1.15949649e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: GameObject/light_08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0468564034
+        inSlope: 1.50874246e-06
+        outSlope: 1.50874246e-06
+        tangentMode: 10
+      - time: .266666681
+        value: -.046856001
+        inSlope: 1.50874246e-06
+        outSlope: 1.50874246e-06
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: GameObject/light_08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: GameObject/light_08
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: GameObject/light_08
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: GameObject/light_08
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .300000012
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: GameObject/light_08
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .266666681
+        value: 0
+        inSlope: 30.0000019
+        outSlope: 30.0000019
+        tangentMode: 10
+      - time: .300000012
+        value: 1
+        inSlope: .94857502
+        outSlope: .94857502
+        tangentMode: 0
+      - time: .333333343
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: GameObject/light_08
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0250000004
+        inSlope: -.0300000031
+        outSlope: -.0300000031
+        tangentMode: 10
+      - time: .0333333351
+        value: .0240000002
+        inSlope: -.329999983
+        outSlope: -.329999983
+        tangentMode: 10
+      - time: .0666666701
+        value: .00300000003
+        inSlope: -.629999936
+        outSlope: -.629999936
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: glow_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .0430000015
+        inSlope: -.0600000061
+        outSlope: -.0600000061
+        tangentMode: 10
+      - time: .0333333351
+        value: .0410000011
+        inSlope: -.570000052
+        outSlope: -.570000052
+        tangentMode: 10
+      - time: .0666666701
+        value: .00499999989
+        inSlope: -1.08000004
+        outSlope: -1.08000004
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: glow_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: glow_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 5.7558856
+        inSlope: 69.4078827
+        outSlope: 69.4078827
+        tangentMode: 10
+      - time: .0333333351
+        value: 8.06948185
+        inSlope: 124.191353
+        outSlope: 124.191353
+        tangentMode: 10
+      - time: .0666666701
+        value: 14.0353098
+        inSlope: 134.480072
+        outSlope: 134.480072
+        tangentMode: 10
+      - time: .100000001
+        value: 17.0348206
+        inSlope: 89.9853287
+        outSlope: 89.9853287
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: glow_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .499088109
+        inSlope: -.529790819
+        outSlope: -.529790819
+        tangentMode: 10
+      - time: .0333333351
+        value: .481428415
+        inSlope: -5.91097927
+        outSlope: -5.91097927
+        tangentMode: 10
+      - time: .0666666701
+        value: .105022803
+        inSlope: -6.17826986
+        outSlope: -6.17826986
+        tangentMode: 10
+      - time: .100000001
+        value: .0695437416
+        inSlope: -1.06437194
+        outSlope: -1.06437194
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: glow_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0666666701
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: glow_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.r
+    path: glow_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.g
+    path: glow_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .13333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.b
+    path: glow_02
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .100000001
+        value: 1
+        inSlope: -14.9999971
+        outSlope: -14.9999971
+        tangentMode: 10
+      - time: .13333334
+        value: 0
+        inSlope: -29.9999943
+        outSlope: -29.9999943
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._TintColor.a
+    path: glow_02
+    classID: 23
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []

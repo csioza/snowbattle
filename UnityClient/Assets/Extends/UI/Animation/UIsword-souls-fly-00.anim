@@ -1,0 +1,1262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UIsword-souls-fly-00
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: {x: 225, y: -.289398193, z: 0}
+        inSlope: {x: 64.7968445, y: 565.474426, z: 0}
+        outSlope: {x: 64.7968445, y: 565.474426, z: 0}
+        tangentMode: 64
+      - time: .733333349
+        value: {x: 250.353256, y: 178.777512, z: 0}
+        inSlope: {x: 85.9724426, y: 305.880524, z: 0}
+        outSlope: {x: 85.9724426, y: 305.880524, z: 0}
+        tangentMode: 0
+      - time: .75
+        value: {x: 251.782684, y: 183.478424, z: 0}
+        inSlope: {x: 85.5318604, y: 258.783112, z: 0}
+        outSlope: {x: 85.5318604, y: 258.783112, z: 0}
+        tangentMode: 0
+      - time: 1.0333333
+        value: {x: 272.645996, y: 192.663498, z: 0}
+        inSlope: {x: 54.2480087, y: -34.0893898, z: 0}
+        outSlope: {x: 54.2480087, y: -34.0893898, z: 0}
+        tangentMode: 0
+      - time: 1.25
+        value: {x: 278.997375, y: 167.862656, z: 0}
+        inSlope: {x: 0, y: -114.465408, z: 0}
+        outSlope: {x: 0, y: -114.465408, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Souls/Sprite_soul6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: {x: 179.515167, y: -.231506348, z: 0}
+        inSlope: {x: -15.455018, y: 0, z: 0}
+        outSlope: {x: -15.455018, y: 0, z: 0}
+        tangentMode: 64
+      - time: .449999988
+        value: {x: 179, y: -.231506348, z: 0}
+        inSlope: {x: 207.024216, y: 213.180954, z: 0}
+        outSlope: {x: 207.024216, y: 213.180954, z: 0}
+        tangentMode: 0
+      - time: .75
+        value: {x: 307.851044, y: 130.626389, z: 0}
+        inSlope: {x: 189.03978, y: 378.862671, z: 0}
+        outSlope: {x: 189.03978, y: 378.862671, z: 0}
+        tangentMode: 0
+      - time: .783333361
+        value: {x: 313.119263, y: 141.889145, z: 0}
+        inSlope: {x: 128.122269, y: 293.441132, z: 0}
+        outSlope: {x: 128.122269, y: 293.441132, z: 0}
+        tangentMode: 0
+      - time: 1.10000002
+        value: {x: 297.427277, y: 192.720596, z: 0}
+        inSlope: {x: -130.77681, y: -2.40924835, z: 0}
+        outSlope: {x: -130.77681, y: -2.40924835, z: 0}
+        tangentMode: 0
+      - time: 1.25
+        value: {x: 282.139099, y: 167.919769, z: 0}
+        inSlope: {x: -51.4238892, y: -165.338867, z: 0}
+        outSlope: {x: -51.4238892, y: -165.338867, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Souls/Sprite_soul5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: {x: 135.094604, y: -.173614502, z: 0}
+        inSlope: {x: -1.4190675, y: 0, z: 0}
+        outSlope: {x: -1.4190675, y: 0, z: 0}
+        tangentMode: 64
+      - time: .483333319
+        value: {x: 135, y: -.173614502, z: 0}
+        inSlope: {x: 175.325302, y: 139.173904, z: 0}
+        outSlope: {x: 175.325302, y: 139.173904, z: 0}
+        tangentMode: 0
+      - time: .883333325
+        value: {x: 280.613983, y: 111.165512, z: 0}
+        inSlope: {x: 246.013306, y: 283.19696, z: 0}
+        outSlope: {x: 246.013306, y: 283.19696, z: 0}
+        tangentMode: 0
+      - time: .916666687
+        value: {x: 287.563538, y: 121.68663, z: 0}
+        inSlope: {x: 168.830917, y: 343.820648, z: 0}
+        outSlope: {x: 168.830917, y: 343.820648, z: 0}
+        tangentMode: 0
+      - time: 1.16666663
+        value: {x: 286.824677, y: 192.778564, z: 0}
+        inSlope: {x: -71.66996, y: -14.0778198, z: 0}
+        outSlope: {x: -71.66996, y: -14.0778198, z: 0}
+        tangentMode: 0
+      - time: 1.25
+        value: {x: 282.760925, y: 166.428406, z: 0}
+        inSlope: {x: -14.4078379, y: -316.201752, z: 0}
+        outSlope: {x: -14.4078379, y: -316.201752, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Souls/Sprite_soul4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: {x: 90.7429581, y: -.115722656, z: 0}
+        inSlope: {x: -7.42958117, y: 0, z: 0}
+        outSlope: {x: -7.42958117, y: 0, z: 0}
+        tangentMode: 64
+      - time: .516666651
+        value: {x: 90, y: -.115722656, z: 0}
+        inSlope: {x: 167.125305, y: 92.4248123, z: 0}
+        outSlope: {x: 167.125305, y: 92.4248123, z: 0}
+        tangentMode: 0
+      - time: .850000024
+        value: {x: 203.893417, y: 58.6199455, z: 0}
+        inSlope: {x: 269.415527, y: 262.393097, z: 0}
+        outSlope: {x: 269.415527, y: 262.393097, z: 0}
+        tangentMode: 0
+      - time: .883333325
+        value: {x: 212.489182, y: 67.6624756, z: 0}
+        inSlope: {x: 246.832825, y: 280.183167, z: 0}
+        outSlope: {x: 246.832825, y: 280.183167, z: 0}
+        tangentMode: 0
+      - time: .916666687
+        value: {x: 220.382385, y: 79.2850113, z: 0}
+        inSlope: {x: 227.261185, y: 410.617767, z: 0}
+        outSlope: {x: 227.261185, y: 410.617767, z: 0}
+        tangentMode: 0
+      - time: 1.2166667
+        value: {x: 276.366089, y: 192.834717, z: 0}
+        inSlope: {x: 186.612228, y: -184.254654, z: 0}
+        outSlope: {x: 186.612228, y: -184.254654, z: 0}
+        tangentMode: 0
+      - time: 1.25
+        value: {x: 282.753754, y: 168.033875, z: 0}
+        inSlope: {x: 197.150848, y: -744.026001, z: 0}
+        outSlope: {x: 197.150848, y: -744.026001, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Souls/Sprite_soul3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: {x: 45.3679276, y: -.057800293, z: 0}
+        inSlope: {x: -2.75945616, y: 0, z: 0}
+        outSlope: {x: -2.75945616, y: 0, z: 0}
+        tangentMode: 64
+      - time: .550000012
+        value: {x: 45, y: -.057800293, z: 0}
+        inSlope: {x: 173.232971, y: 68.3675613, z: 0}
+        outSlope: {x: 173.232971, y: 68.3675613, z: 0}
+        tangentMode: 0
+      - time: .850000024
+        value: {x: 149.767624, y: 28.0697575, z: 0}
+        inSlope: {x: 346.647888, y: 180.436142, z: 0}
+        outSlope: {x: 346.647888, y: 180.436142, z: 0}
+        tangentMode: 0
+      - time: .949999988
+        value: {x: 184.319641, y: 51.7264671, z: 0}
+        inSlope: {x: 344.553711, y: 299.507843, z: 0}
+        outSlope: {x: 344.553711, y: 299.507843, z: 0}
+        tangentMode: 0
+      - time: .966666639
+        value: {x: 190.060028, y: 56.9151611, z: 0}
+        inSlope: {x: 344.298523, y: 323.325348, z: 0}
+        outSlope: {x: 344.298523, y: 323.325348, z: 0}
+        tangentMode: 0
+      - time: 1.23333335
+        value: {x: 281.662964, y: 192.89267, z: 0}
+        inSlope: {x: 343.868988, y: -489.067291, z: 0}
+        outSlope: {x: 343.868988, y: -489.067291, z: 0}
+        tangentMode: 0
+      - time: 1.25
+        value: {x: 287.395752, y: 168.091858, z: 0}
+        inSlope: {x: 344.070343, y: -1488.05017, z: 0}
+        outSlope: {x: 344.070343, y: -1488.05017, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Souls/Sprite_soul2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: .600000024, y: 0, z: 0}
+        outSlope: {x: .600000024, y: 0, z: 0}
+        tangentMode: 64
+      - time: .583333313
+        value: {x: .100000001, y: 0, z: 0}
+        inSlope: {x: 185.521851, y: 61.2690811, z: 0}
+        outSlope: {x: 185.521851, y: 61.2690811, z: 0}
+        tangentMode: 0
+      - time: .966666639
+        value: {x: 142.103424, y: 46.9729614, z: 0}
+        inSlope: {x: 458.19165, y: 275.108887, z: 0}
+        outSlope: {x: 458.19165, y: 275.108887, z: 0}
+        tangentMode: 0
+      - time: 1.25
+        value: {x: 296.786316, y: 168.148865, z: 0}
+        inSlope: {x: 545.939575, y: 427.679626, z: 0}
+        outSlope: {x: 545.939575, y: 427.679626, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Souls/Sprite_soul1
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.0333333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul6
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.10000002
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul5
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.16666663
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2166667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.23333335
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.25
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul6
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul5
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul4
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul3
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul2
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul1
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1.25
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 225
+        inSlope: 64.7968445
+        outSlope: 64.7968445
+        tangentMode: 10
+      - time: 1.25
+        value: 278.997375
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Souls/Sprite_soul6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: -.289398193
+        inSlope: 565.474426
+        outSlope: 565.474426
+        tangentMode: 10
+      - time: .733333349
+        value: 178.777512
+        inSlope: 305.880524
+        outSlope: 305.880524
+        tangentMode: 10
+      - time: 1.0333333
+        value: 192.663498
+        inSlope: -34.0893898
+        outSlope: -34.0893898
+        tangentMode: 10
+      - time: 1.25
+        value: 167.862656
+        inSlope: -114.465408
+        outSlope: -114.465408
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Souls/Sprite_soul6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.0333333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Souls/Sprite_soul6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.0333333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul6
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 179.515167
+        inSlope: -15.455018
+        outSlope: -15.455018
+        tangentMode: 10
+      - time: .449999988
+        value: 179
+        inSlope: 207.024216
+        outSlope: 207.024216
+        tangentMode: 10
+      - time: .75
+        value: 307.851044
+        inSlope: 189.03978
+        outSlope: 189.03978
+        tangentMode: 10
+      - time: 1.25
+        value: 282.139099
+        inSlope: -51.4238892
+        outSlope: -51.4238892
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Souls/Sprite_soul5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: -.231506348
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .449999988
+        value: -.231506348
+        inSlope: 213.180954
+        outSlope: 213.180954
+        tangentMode: 10
+      - time: .783333361
+        value: 141.889145
+        inSlope: 293.441132
+        outSlope: 293.441132
+        tangentMode: 10
+      - time: 1.10000002
+        value: 192.720596
+        inSlope: -2.40924835
+        outSlope: -2.40924835
+        tangentMode: 10
+      - time: 1.25
+        value: 167.919769
+        inSlope: -165.338867
+        outSlope: -165.338867
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Souls/Sprite_soul5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .449999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.10000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Souls/Sprite_soul5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.10000002
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul5
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 135.094604
+        inSlope: -1.4190675
+        outSlope: -1.4190675
+        tangentMode: 10
+      - time: .483333319
+        value: 135
+        inSlope: 175.325302
+        outSlope: 175.325302
+        tangentMode: 10
+      - time: .916666687
+        value: 287.563538
+        inSlope: 168.830917
+        outSlope: 168.830917
+        tangentMode: 10
+      - time: 1.25
+        value: 282.760925
+        inSlope: -14.4078379
+        outSlope: -14.4078379
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Souls/Sprite_soul4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: -.173614502
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .483333319
+        value: -.173614502
+        inSlope: 139.173904
+        outSlope: 139.173904
+        tangentMode: 10
+      - time: .883333325
+        value: 111.165512
+        inSlope: 283.19696
+        outSlope: 283.19696
+        tangentMode: 10
+      - time: 1.16666663
+        value: 192.778564
+        inSlope: -14.0778198
+        outSlope: -14.0778198
+        tangentMode: 10
+      - time: 1.25
+        value: 166.428406
+        inSlope: -316.201752
+        outSlope: -316.201752
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Souls/Sprite_soul4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .483333319
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .883333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Souls/Sprite_soul4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.16666663
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 90.7429581
+        inSlope: -7.42958117
+        outSlope: -7.42958117
+        tangentMode: 10
+      - time: .516666651
+        value: 90
+        inSlope: 167.125305
+        outSlope: 167.125305
+        tangentMode: 10
+      - time: .850000024
+        value: 203.893417
+        inSlope: 269.415527
+        outSlope: 269.415527
+        tangentMode: 10
+      - time: 1.25
+        value: 282.753754
+        inSlope: 197.150848
+        outSlope: 197.150848
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Souls/Sprite_soul3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: -.115722656
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .516666651
+        value: -.115722656
+        inSlope: 92.4248123
+        outSlope: 92.4248123
+        tangentMode: 10
+      - time: .883333325
+        value: 67.6624756
+        inSlope: 280.183167
+        outSlope: 280.183167
+        tangentMode: 10
+      - time: 1.2166667
+        value: 192.834717
+        inSlope: -184.254654
+        outSlope: -184.254654
+        tangentMode: 10
+      - time: 1.25
+        value: 168.033875
+        inSlope: -744.026001
+        outSlope: -744.026001
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Souls/Sprite_soul3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .516666651
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .916666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.2166667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Souls/Sprite_soul3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.2166667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 45.3679276
+        inSlope: -2.75945616
+        outSlope: -2.75945616
+        tangentMode: 10
+      - time: .550000012
+        value: 45
+        inSlope: 173.232971
+        outSlope: 173.232971
+        tangentMode: 10
+      - time: .850000024
+        value: 149.767624
+        inSlope: 346.647888
+        outSlope: 346.647888
+        tangentMode: 10
+      - time: 1.25
+        value: 287.395752
+        inSlope: 344.070343
+        outSlope: 344.070343
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Souls/Sprite_soul2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: -.057800293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .550000012
+        value: -.057800293
+        inSlope: 68.3675613
+        outSlope: 68.3675613
+        tangentMode: 10
+      - time: .966666639
+        value: 56.9151611
+        inSlope: 323.325348
+        outSlope: 323.325348
+        tangentMode: 10
+      - time: 1.23333335
+        value: 192.89267
+        inSlope: -489.067291
+        outSlope: -489.067291
+        tangentMode: 10
+      - time: 1.25
+        value: 168.091858
+        inSlope: -1488.05017
+        outSlope: -1488.05017
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Souls/Sprite_soul2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .550000012
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .949999988
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.23333335
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Souls/Sprite_soul2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.23333335
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 0
+        inSlope: .600000024
+        outSlope: .600000024
+        tangentMode: 10
+      - time: .583333313
+        value: .100000001
+        inSlope: 185.521851
+        outSlope: 185.521851
+        tangentMode: 10
+      - time: .966666639
+        value: 142.103424
+        inSlope: 458.19165
+        outSlope: 458.19165
+        tangentMode: 10
+      - time: 1.25
+        value: 296.786316
+        inSlope: 545.939575
+        outSlope: 545.939575
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Souls/Sprite_soul1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .583333313
+        value: 0
+        inSlope: 61.2690811
+        outSlope: 61.2690811
+        tangentMode: 10
+      - time: .966666639
+        value: 46.9729614
+        inSlope: 275.108887
+        outSlope: 275.108887
+        tangentMode: 10
+      - time: 1.25
+        value: 168.148865
+        inSlope: 427.679626
+        outSlope: 427.679626
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Souls/Sprite_soul1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .583333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .966666639
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Souls/Sprite_soul1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .416666657
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.25
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Souls/Sprite_soul1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul6
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul5
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul4
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul3
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul2
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .166666672
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Enabled
+    path: Souls/Sprite_soul1
+    classID: 114
+    script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+  m_EulerEditorCurves: []
+  m_Events: []

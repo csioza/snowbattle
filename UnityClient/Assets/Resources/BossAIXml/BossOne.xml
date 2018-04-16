@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BossOne Type = "AINodeSel">
+    <Sel Name = "BossOne" Type = "AINodeSel">
+		<Seq Name = "InitAIData" Type = "AINodeSeq">
+			<AICondition Name = "ValueSetCondition" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "AngerCount" ValueType = "Float" SetType = "None" Value = "1"/>
+			<AICondition Name = "ValueSetCondition" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "BattleStartTime" ValueType = "Float" SetType = "Reset" Value = "None"/>
+		</Seq>
+        <Seq Name = "BreakStamina" Type = "AINodeSeq">
+            <AIAction Name = "FuncAction" Type = "BreakStaminaAction"/>
+        </Seq>
+        <Seq Name = "Angery" Type = "AINodeSeq">
+            <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "HPPercent" ValueType = "Float" CompareType = "ValueLow" Value = "0.5"/>
+            <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "AI" ValueName = "AngerCount" ValueType = "Float" CompareType = "ValueLow" Value = "1"/>
+            <AIAction Name = "FireSkill" Type = "FireSkillAction" SkillID = "1025"/>
+            <AICondition Name = "ValueSetCondition" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "AngerCount" ValueType = "Float" SetType = "Add" Value = "1"/>
+        </Seq>
+        <Seq Name = "GetTarget" Type = "AINodeSeq">
+            <Seq Name = "SetCurrectTareget" Type = "AINodeSeq">
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "CurTarget" ValueType = "Bool" CompareType = "Equal" Value = "False"/>
+                <AIAction Name = "FuncAction" Type = "SetCurrentTargetAction"/>
+            </Seq>
+            <Seq Name = "SetBloodBar" Type = "AINodeSeq">
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "CurTarget" ValueType = "Bool"  CompareType = "Equal" Value = "True"/>
+                <AIAction Name = "FuncAction" Type = "SetBloodBarAction"/>
+            </Seq>
+        </Seq>
+        <Sel Name = "Battle" Type = "AINodeSel">
+            <Seq Name = "HighFarAttack" Type = "AINodeSeq">
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "CurTarget" ValueType = "Bool" CompareType = "Equal" Value = "True"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "HPPercent" ValueType = "Float"  CompareType = "ValueLow" Value = "0.5"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "TargetDistance" ValueType = "Float"  CompareType = "ValueHigh" Value = "2"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "AI" ValueName = "BattleStartTime" ValueType = "Time"  CompareType = "ValueHigh" Value = "4"/>
+                <AIAction Name = "DistanceLevelSkill" Type = "DistanceLevelSkillAction" DistanceType = "Far" LevelType = "High"/>
+                <AICondition Name = "ValueSetCondition" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "BattleStartTime" ValueType = "Time" SetType = "Reset" Value = "0"/>
+            </Seq>
+            <Seq Name = "HighNearAttack" Type = "AINodeSeq">
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "CurTarget" ValueType = "Bool"  CompareType = "Equal" Value = "True"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "HPPercent" CompareType = "ValueLow" Value = "0.5"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "TargetDistance" ValueType = "Float"  CompareType = "ValueLow" Value = "2"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "AI" ValueName = "BattleStartTime" ValueType = "Time" CompareType = "ValueHigh" Value = "4"/>
+                <AIAction Name = "DistanceLevelSkill" Type = "DistanceLevelSkillAction" DistanceType = "Near" LevelType = "High"/>
+                <AICondition Name = "ValueSetCondition" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "BattleStartTime" ValueType = "Time" SetType = "Reset" Value = "0"/>
+            </Seq>
+            <Seq Name = "FarAttack" Type = "AINodeSeq">
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "CurTarget" ValueType = "Bool"  CompareType = "Equal" Value = "True"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "TargetDistance" ValueType = "Float"  CompareType = "ValueHigh" Value = "2"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "AI" ValueName = "BattleStartTime" ValueType = "Time"  CompareType = "ValueHigh" Value = "4"/>
+                <AIAction Name = "DistanceLevelSkill" Type = "DistanceLevelSkillAction" DistanceType = "Far" LevelType = "Base"/>
+                <AICondition Name = "ValueSetCondition" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "BattleStartTime" ValueType = "Time" SetType = "Reset" Value = "0"/>
+            </Seq>
+            <Seq Name = "NearAttack" Type = "AINodeSeq">
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "CurTarget" ValueType = "Bool"  CompareType = "Equal" Value = "True"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "Actor" ValueName = "TargetDistance" ValueType = "Float"  CompareType = "ValueLow" Value = "2"/>
+                <AICondition Name = "ValueCompareCondition" Type = "ValueCompareCondition" ObjectType = "AI" ValueName = "BattleStartTime" ValueType = "Time"  CompareType = "ValueHigh" Value = "4"/>
+                <AIAction Name = "DistanceLevelSkill" Type = "DistanceLevelSkillAction" DistanceType = "Near" LevelType = "Base"/>
+                <AICondition Name = "ValueSetCondition" Type = "ValueSetCondition" ObjectType = "AI" ValueName = "BattleStartTime" ValueType = "Time" SetType = "Reset" Value = "0"/>
+            </Seq>
+            <Seq Name = "ActionForwardTo" Type = "AINodeSeq">
+                <AIAction Name = "FuncAction" Type = "ForwardToAction"/>
+            </Seq>
+        </Sel>
+    </Sel>
+</BossOne>

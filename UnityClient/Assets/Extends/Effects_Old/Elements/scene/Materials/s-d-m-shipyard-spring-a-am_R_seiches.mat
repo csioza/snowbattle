@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: s-d-m-shipyard-spring-a-am_R_seiches
+  m_Shader: {fileID: 4800000, guid: 273c4ccbdb294af4eb685c995428f1eb, type: 3}
+  m_ShaderKeywords: []
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: a44a5916611120042a21759695a583d2, type: 3}
+          m_Scale: {x: 30, y: 30}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 593eafb0309c27440b197f422861c835, type: 3}
+          m_Scale: {x: 10, y: 10}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _RampTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _ScrollX
+        second: 0
+      data:
+        first:
+          name: _ScrollY
+        second: .100000001
+      data:
+        first:
+          name: _Scroll2X
+        second: 0
+      data:
+        first:
+          name: _Scroll2Y
+        second: .0199999996
+      data:
+        first:
+          name: _SineAmplX
+        second: 1
+      data:
+        first:
+          name: _SineAmplY
+        second: 0
+      data:
+        first:
+          name: _SineFreqX
+        second: 0
+      data:
+        first:
+          name: _SineFreqY
+        second: 0
+      data:
+        first:
+          name: _SineAmplX2
+        second: 0
+      data:
+        first:
+          name: _SineAmplY2
+        second: 0
+      data:
+        first:
+          name: _SineFreqX2
+        second: 0
+      data:
+        first:
+          name: _SineFreqY2
+        second: 0
+      data:
+        first:
+          name: _MMultiplier
+        second: 1.36000001
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .954545438, g: .922649324, b: .420284927, a: 1}

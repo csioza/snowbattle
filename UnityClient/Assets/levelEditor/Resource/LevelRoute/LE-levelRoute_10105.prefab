@@ -1,0 +1,296 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &174134
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 474134}
+  - 114: {fileID: 11474134}
+  m_Layer: 0
+  m_Name: LE-roomItem4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &174136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 474136}
+  - 114: {fileID: 11474136}
+  m_Layer: 0
+  m_Name: LE-roomItem3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &174138
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 474138}
+  - 114: {fileID: 11474138}
+  m_Layer: 0
+  m_Name: LE-roomItem2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &174140
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 474140}
+  - 114: {fileID: 11474140}
+  m_Layer: 0
+  m_Name: LE-roomItem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &174142
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 474142}
+  - 114: {fileID: 11474142}
+  m_Layer: 0
+  m_Name: LE-levelRoute_10105
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &474134
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174134}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474142}
+  m_RootOrder: 3
+--- !u!4 &474136
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174136}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474142}
+  m_RootOrder: 2
+--- !u!4 &474138
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174138}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474142}
+  m_RootOrder: 1
+--- !u!4 &474140
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174140}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474142}
+  m_RootOrder: 0
+--- !u!4 &474142
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174142}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 474140}
+  - {fileID: 474138}
+  - {fileID: 474136}
+  - {fileID: 474134}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11474134
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151453d956073db41a2b43f768cb0af2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showPercent: 1
+  roomlist:
+  - RoomId: 20122
+    Roomweight: 1
+  NorthBridge:
+    ObjID: 1
+    Length: 1
+    nextRouteItem: {fileID: 0}
+  EastBridge:
+    ObjID: 0
+    Length: 0
+    nextRouteItem: {fileID: 0}
+  SouthBridge:
+    ObjID: 0
+    Length: 0
+    nextRouteItem: {fileID: 0}
+  WestBridge:
+    ObjID: 0
+    Length: 0
+    nextRouteItem: {fileID: 0}
+--- !u!114 &11474136
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151453d956073db41a2b43f768cb0af2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showPercent: 1
+  roomlist:
+  - RoomId: 20122
+    Roomweight: 1
+  NorthBridge:
+    ObjID: 1
+    Length: 1
+    nextRouteItem: {fileID: 0}
+  EastBridge:
+    ObjID: 0
+    Length: 0
+    nextRouteItem: {fileID: 0}
+  SouthBridge:
+    ObjID: 1
+    Length: 1
+    nextRouteItem: {fileID: 174134}
+  WestBridge:
+    ObjID: 0
+    Length: 0
+    nextRouteItem: {fileID: 0}
+--- !u!114 &11474138
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151453d956073db41a2b43f768cb0af2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showPercent: 1
+  roomlist:
+  - RoomId: 20122
+    Roomweight: 1
+  NorthBridge:
+    ObjID: 1
+    Length: 1
+    nextRouteItem: {fileID: 0}
+  EastBridge:
+    ObjID: 1
+    Length: 1
+    nextRouteItem: {fileID: 0}
+  SouthBridge:
+    ObjID: 1
+    Length: 1
+    nextRouteItem: {fileID: 174136}
+  WestBridge:
+    ObjID: 0
+    Length: 0
+    nextRouteItem: {fileID: 0}
+--- !u!114 &11474140
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151453d956073db41a2b43f768cb0af2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showPercent: 1
+  roomlist:
+  - RoomId: 20122
+    Roomweight: 1
+  NorthBridge:
+    ObjID: 1
+    Length: 1
+    nextRouteItem: {fileID: 0}
+  EastBridge:
+    ObjID: 1
+    Length: 1
+    nextRouteItem: {fileID: 0}
+  SouthBridge:
+    ObjID: 1
+    Length: 1
+    nextRouteItem: {fileID: 174138}
+  WestBridge:
+    ObjID: 0
+    Length: 0
+    nextRouteItem: {fileID: 0}
+--- !u!114 &11474142
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d528f9a7c9e2824898c5777b4972391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  head: {fileID: 174140}
+  id: 10105
+  viewId: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 174142}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: standby-00
+  serializedVersion: 3
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.452357948, y: .543481648, z: -.452357948, w: .543481648}
+        inSlope: {x: .0254049879, y: .0211125594, z: .0254049879, w: .0211125594}
+        outSlope: {x: .0254049879, y: .0211125594, z: .0254049879, w: .0211125594}
+        tangentMode: -559038737
+      - time: .533333361
+        value: {x: -.289286971, y: .64522326, z: -.289286971, w: .64522326}
+        inSlope: {x: .496894002, y: .222771585, z: .496894002, w: .222771585}
+        outSlope: {x: .496894002, y: .222771585, z: .496894002, w: .222771585}
+        tangentMode: -559038737
+      - time: .700000048
+        value: {x: -.189193919, y: .681326449, z: -.189193919, w: .681326449}
+        inSlope: {x: .941520095, y: .257913172, z: .941520095, w: .257913172}
+        outSlope: {x: .941520095, y: .257913172, z: .941520095, w: .257913172}
+        tangentMode: -559038737
+      - time: .833333373
+        value: {x: -.0493908376, y: .705379725, z: -.0493908376, w: .705379725}
+        inSlope: {x: .904144228, y: .0672224462, z: .904144228, w: .0672224462}
+        outSlope: {x: .904144228, y: .0672224462, z: .904144228, w: .0672224462}
+        tangentMode: -559038737
+      - time: .966666698
+        value: {x: -.00200488162, y: .707103968, z: -.00200488162, w: .707103968}
+        inSlope: {x: -.231390238, y: -.00160217436, z: -.231390238, w: -.00160217436}
+        outSlope: {x: -.231390238, y: -.00160217436, z: -.231390238, w: -.00160217436}
+        tangentMode: -559038737
+      - time: 1.10000002
+        value: {x: -.0232103243, y: .706725776, z: -.0232103243, w: .706725776}
+        inSlope: {x: .231299698, y: .00664918777, z: .231299698, w: .00664918777}
+        outSlope: {x: .231299698, y: .00664918777, z: .231299698, w: .00664918777}
+        tangentMode: -559038737
+      - time: 1.20000005
+        value: {x: .00281698047, y: .707101166, z: .00281698047, w: .707101166}
+        inSlope: {x: .0411164612, y: 3.66568893e-05, z: .0411164612, w: 3.66568893e-05}
+        outSlope: {x: .0411164612, y: 3.66568893e-05, z: .0411164612, w: 3.66568893e-05}
+        tangentMode: -559038737
+      - time: 1.33333337
+        value: {x: -.00312703685, y: .707099915, z: -.00312703685, w: .707099915}
+        inSlope: {x: .0891596973, y: .000281631859, z: .0891596973, w: .000281631859}
+        outSlope: {x: .0891596973, y: .000281631859, z: .0891596973, w: .000281631859}
+        tangentMode: -559038737
+      - time: 1.86666679
+        value: {x: .00281698047, y: .707101166, z: .00281698047, w: .707101166}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: -559038737
+      - time: 2.33333349
+        value: {x: .00281698047, y: .707101166, z: .00281698047, w: .707101166}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Bip01
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1.19981769e-09, y: .0151257515, z: -.0274486281}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -559038737
+      - time: 2.33333325
+        value: {x: -1.19981769e-09, y: .0151257515, z: -.0274486281}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 276197676
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Bip01
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -559038737
+      - time: 2.33333349
+        value: {x: .99999994, y: .99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Bip01
+  m_FloatCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 2
+  m_Bounds:
+    m_Center: {x: -.172698975, y: 7.75229359, z: 8.09933758}
+    m_Extent: {x: 3.00000286, y: 8.32458591, z: 8.17916012}
+  m_MuscleClipInfo:
+    m_StartTime: 0
+    m_StopTime: 2.33333325
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+    m_KeepAdditionalBonesAnimation: 1
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ui-multikill-00
+  serializedVersion: 4
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 403.000092, y: .927739143, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 863744804
+      - time: .433333337
+        value: {x: 403.000092, y: .927739143, z: 0}
+        inSlope: {x: -2947.28662, y: -105.263306, z: 0}
+        outSlope: {x: -2947.28662, y: -105.263306, z: 0}
+        tangentMode: -1
+      - time: .5
+        value: {x: 10.0285645, y: -13.1073675, z: 0}
+        inSlope: {x: -5894.57324, y: -210.526611, z: 0}
+        outSlope: {x: -5894.57324, y: -210.526611, z: 0}
+        tangentMode: 6619252
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Sword
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 3, y: 3, z: 3}
+        inSlope: {x: -3, y: -3, z: -3}
+        outSlope: {x: -3, y: -3, z: -3}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 2.5, y: 2.5, z: 2.5}
+        inSlope: {x: -3, y: -3, z: -3}
+        outSlope: {x: -16.5086365, y: -16.5086365, z: -16.5086365}
+        tangentMode: 1042983595
+      - time: .200000003
+        value: {x: 1.03846669, y: 1.03846669, z: 1.03846669}
+        inSlope: {x: -43.8460007, y: -43.8460007, z: -43.8460007}
+        outSlope: {x: -43.8460007, y: -43.8460007, z: -43.8460007}
+        tangentMode: 1045220557
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: MultiKillWord
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .5
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 403.000092
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 403.000092
+        inSlope: -2947.28662
+        outSlope: -2947.28662
+        tangentMode: 10
+      - time: .5
+        value: 10.0285645
+        inSlope: -5894.57324
+        outSlope: -5894.57324
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Sword
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .927739143
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: .927739143
+        inSlope: -105.263306
+        outSlope: -105.263306
+        tangentMode: 10
+      - time: .5
+        value: -13.1073675
+        inSlope: -210.526611
+        outSlope: -210.526611
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Sword
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .433333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Sword
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3
+        inSlope: -3
+        outSlope: -3
+        tangentMode: 10
+      - time: .166666672
+        value: 2.5
+        inSlope: -3
+        outSlope: -16.5086365
+        tangentMode: 5
+      - time: .200000003
+        value: 1.03846669
+        inSlope: -43.8460007
+        outSlope: -43.8460007
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: MultiKillWord
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3
+        inSlope: -3
+        outSlope: -3
+        tangentMode: 10
+      - time: .166666672
+        value: 2.5
+        inSlope: -3
+        outSlope: -16.5086365
+        tangentMode: 5
+      - time: .200000003
+        value: 1.03846669
+        inSlope: -43.8460007
+        outSlope: -43.8460007
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: MultiKillWord
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 3
+        inSlope: -3
+        outSlope: -3
+        tangentMode: 10
+      - time: .166666672
+        value: 2.5
+        inSlope: -3
+        outSlope: -16.5086365
+        tangentMode: 5
+      - time: .200000003
+        value: 1.03846669
+        inSlope: -43.8460007
+        outSlope: -43.8460007
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: MultiKillWord
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_Events: []
